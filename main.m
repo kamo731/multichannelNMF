@@ -1,5 +1,4 @@
 function main( seed, music_num, nb )
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Sample program for blind source separation using multichannel           %
 % nonnegative matrix factorization (multichannel NMF)                     %
