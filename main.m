@@ -18,6 +18,9 @@ clear;
 close all;
 addpath('./bss_eval'); % BSS eval is shared under GPLv3 license
 
+root_dir = "./experiment/test/";
+music_num = 1;
+
 % Parameters
 seed = 1; % pseudo random seed
 refMic = 1; % reference mic for performance evaluation using bss_eval_sources
@@ -26,15 +29,14 @@ ns = 2; % number of sources
 fftSize = 4096; % window length in STFT [points]
 shiftSize = 2048; % shift length in STFT [points]
 nb = 20; % number of NMF bases for all sources (total bases)
-it = 30; % number of iterations (define by checking convergence behavior with drawConv=true)
+it = 300; % number of iterations (define by checking convergence behavior with drawConv=true)
 drawConv = false; % true or false (true: plot cost function values in each iteration and show convergence behavior, false: faster and do not plot cost function values)
 
 % Fix random seed
 RandStream.setGlobalStream(RandStream('mt19937ar','Seed',seed));
 
 % Input data and resample
-[sig(:,:,1), fs] = audioread('./input/drums.wav'); % signal x channel x source
-[sig(:,:,2), fs] = audioread('./input/piano.wav'); % signal x channel x source
+[ sig, fs ] = musicMap(music_num);
 sig_resample(:,:,1) = resample(sig(:,:,1), fsResample, fs, 100); % resampling for reducing computational cost
 sig_resample(:,:,2) = resample(sig(:,:,2), fsResample, fs, 100); % resampling for reducing computational cost
 
@@ -58,8 +60,6 @@ SDRimp = SDR - inputSDRSIR
 SIRimp = SIR - inputSDRSIR
 SAR
 
-root_dir = "./experiment/test/";
-music_num = 1;
 saveMat( root_dir, music_num, seed, fftSize, shiftSize, nb, it, SDR, SIR, SAR, SDRimp, SIRimp, cost );
 
 % Output separated signals
