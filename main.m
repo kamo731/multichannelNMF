@@ -26,8 +26,8 @@ ns = 2; % number of sources
 fftSize = 4096; % window length in STFT [points]
 shiftSize = 2048; % shift length in STFT [points]
 nb = 20; % number of NMF bases for all sources (total bases)
-it = 300; % number of iterations (define by checking convergence behavior with drawConv=true)
-drawConv = true; % true or false (true: plot cost function values in each iteration and show convergence behavior, false: faster and do not plot cost function values)
+it = 30; % number of iterations (define by checking convergence behavior with drawConv=true)
+drawConv = false; % true or false (true: plot cost function values in each iteration and show convergence behavior, false: faster and do not plot cost function values)
 
 % Fix random seed
 RandStream.setGlobalStream(RandStream('mt19937ar','Seed',seed));
