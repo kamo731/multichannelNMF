@@ -1,0 +1,7461 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+ 
+開始するには doc と入力してください。
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1Iteration:       1Iteration:       1   2Iteration:       1Iteration:       1   2   3   2   2   2   2   3   4   3   3   3   3   4   5   4   4   4   4   5 Multichannel NMF done.
+   5   5   5   5 Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.6480
+    0.9352
+
+
+SIRimp =
+
+   -0.6480
+    0.9352
+
+
+SAR =
+
+   68.9321
+   68.9544
+
+
+SDRimp =
+
+   -0.6464
+    0.9366
+
+
+SIRimp =
+
+   -0.6464
+    0.9366
+
+
+SAR =
+
+   64.1347
+   64.0994
+
+./experiment/test2/music1_pf_fl_con1/nob_40/200116_191104_music1_pf_fl_con1_fftSize1024_shift256_nb40_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.6456
+    0.9377
+
+
+SIRimp =
+
+   -0.6456
+    0.9377
+
+
+SAR =
+
+   66.4819
+   66.4818
+
+
+SDRimp =
+
+   -0.6481
+    0.9351
+
+
+SIRimp =
+
+   -0.6481
+    0.9351
+
+
+SAR =
+
+   70.3301
+   70.3346
+
+
+SDRimp =
+
+   -0.6467
+    0.9365
+
+
+SIRimp =
+
+   -0.6467
+    0.9365
+
+
+SAR =
+
+   67.8284
+   67.8183
+
+
+SDRimp =
+
+   -0.6482
+    0.9350
+
+
+SIRimp =
+
+   -0.6482
+    0.9350
+
+
+SAR =
+
+   69.5442
+   69.5500
+
+./experiment/test2/music1_pf_fl_con1/nob_10/200116_191105_music1_pf_fl_con1_fftSize1024_shift256_nb10_it5_seed1.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_20/200116_191105_music1_pf_fl_con1_fftSize1024_shift256_nb20_it5_seed1.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_60/200116_191105_music1_pf_fl_con1_fftSize1024_shift256_nb60_it5_seed1.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_50/200116_191105_music1_pf_fl_con1_fftSize1024_shift256_nb50_it5_seed1.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_30/200116_191105_music1_pf_fl_con1_fftSize1024_shift256_nb30_it5_seed1.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1   2The signals are normalized.
+Iteration:       1   2Iteration:       1   3Iteration:       1   2   3   4   2   2   4   5   3   3   3   5 Multichannel NMF done.
+Iteration:       1   4   4   4 Multichannel NMF done.
+   5   2   5   5 Multichannel NMF done.
+ Multichannel NMF done.
+   3 Multichannel NMF done.
+   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.6474
+    0.9359
+
+
+SIRimp =
+
+   -0.6474
+    0.9359
+
+
+SAR =
+
+   67.9410
+   67.9435
+
+./experiment/test2/music1_pf_fl_con1/nob_10/200116_191123_music1_pf_fl_con1_fftSize1024_shift256_nb10_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.6480
+    0.9350
+
+
+SIRimp =
+
+   -0.6480
+    0.9350
+
+
+SAR =
+
+   70.9799
+   70.9801
+
+
+SDRimp =
+
+   -0.6481
+    0.9352
+
+
+SIRimp =
+
+   -0.6481
+    0.9352
+
+
+SAR =
+
+   67.8916
+   67.8739
+
+
+SDRimp =
+
+   -0.6454
+    0.9380
+
+
+SIRimp =
+
+   -0.6454
+    0.9380
+
+
+SAR =
+
+   63.4256
+   63.4228
+
+
+SDRimp =
+
+   -0.6479
+    0.9353
+
+
+SIRimp =
+
+   -0.6479
+    0.9353
+
+
+SAR =
+
+   69.3074
+   69.3196
+
+./experiment/test2/music1_pf_fl_con1/nob_40/200116_191124_music1_pf_fl_con1_fftSize1024_shift256_nb40_it5_seed2.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_30/200116_191124_music1_pf_fl_con1_fftSize1024_shift256_nb30_it5_seed2.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_20/200116_191124_music1_pf_fl_con1_fftSize1024_shift256_nb20_it5_seed2.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_50/200116_191125_music1_pf_fl_con1_fftSize1024_shift256_nb50_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.6480
+    0.9354
+
+
+SIRimp =
+
+   -0.6480
+    0.9354
+
+
+SAR =
+
+   70.8709
+   70.8614
+
+./experiment/test2/music1_pf_fl_con1/nob_60/200116_191125_music1_pf_fl_con1_fftSize1024_shift256_nb60_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:    The signals are normalized.
+   1   2The signals are normalized.
+   3Iteration:       1   4Iteration:       1   2Iteration:       1Iteration:       1   5   3   2   2 Multichannel NMF done.
+   2Iteration:       1   4   3   3   3   2   5   4   4   4   3 Multichannel NMF done.
+   5   5   5   4 Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.6476
+    0.9359
+
+
+SIRimp =
+
+   -0.6476
+    0.9359
+
+
+SAR =
+
+   63.5235
+   63.5160
+
+./experiment/test2/music1_pf_fl_con1/nob_10/200116_191142_music1_pf_fl_con1_fftSize1024_shift256_nb10_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.6455
+    0.9378
+
+
+SIRimp =
+
+   -0.6455
+    0.9378
+
+
+SAR =
+
+   67.7230
+   67.7455
+
+./experiment/test2/music1_pf_fl_con1/nob_20/200116_191143_music1_pf_fl_con1_fftSize1024_shift256_nb20_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.6485
+    0.9347
+
+
+SIRimp =
+
+   -0.6485
+    0.9347
+
+
+SAR =
+
+   70.1375
+   70.1235
+
+
+SDRimp =
+
+   -0.6437
+    0.9395
+
+
+SIRimp =
+
+   -0.6437
+    0.9395
+
+
+SAR =
+
+   68.5053
+   68.5064
+
+
+SDRimp =
+
+   -0.6488
+    0.9341
+
+
+SIRimp =
+
+   -0.6488
+    0.9341
+
+
+SAR =
+
+   67.2502
+   67.2597
+
+
+SDRimp =
+
+   -0.6473
+    0.9361
+
+
+SIRimp =
+
+   -0.6473
+    0.9361
+
+
+SAR =
+
+   71.1469
+   71.1346
+
+./experiment/test2/music1_pf_fl_con1/nob_50/200116_191144_music1_pf_fl_con1_fftSize1024_shift256_nb50_it5_seed3.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_30/200116_191144_music1_pf_fl_con1_fftSize1024_shift256_nb30_it5_seed3.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_40/200116_191144_music1_pf_fl_con1_fftSize1024_shift256_nb40_it5_seed3.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_60/200116_191144_music1_pf_fl_con1_fftSize1024_shift256_nb60_it5_seed3.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+The signals are normalized.
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+   2   3   4Iteration:       1   5Iteration:       1Iteration:       1Iteration:       1   2 Multichannel NMF done.
+   2Iteration:       1   2   2   3   3   2   3   4   3   4   3   5   4   4   5   4 Multichannel NMF done.
+   5   5 Multichannel NMF done.
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.6395
+    0.9440
+
+
+SIRimp =
+
+   -0.6395
+    0.9440
+
+
+SAR =
+
+   62.2814
+   62.2215
+
+./experiment/test2/music1_pf_fl_con1/nob_10/200116_191202_music1_pf_fl_con1_fftSize1024_shift256_nb10_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.6477
+    0.9358
+
+
+SIRimp =
+
+   -0.6477
+    0.9358
+
+
+SAR =
+
+   63.4070
+   63.3932
+
+
+SDRimp =
+
+   -0.6470
+    0.9362
+
+
+SIRimp =
+
+   -0.6470
+    0.9362
+
+
+SAR =
+
+   69.7147
+   69.7287
+
+./experiment/test2/music1_pf_fl_con1/nob_20/200116_191203_music1_pf_fl_con1_fftSize1024_shift256_nb20_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.6472
+    0.9358
+
+
+SIRimp =
+
+   -0.6472
+    0.9358
+
+
+SAR =
+
+   69.9841
+   69.9682
+
+./experiment/test2/music1_pf_fl_con1/nob_30/200116_191203_music1_pf_fl_con1_fftSize1024_shift256_nb30_it5_seed4.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_50/200116_191203_music1_pf_fl_con1_fftSize1024_shift256_nb50_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.6480
+    0.9353
+
+
+SIRimp =
+
+   -0.6480
+    0.9353
+
+
+SAR =
+
+   69.7781
+   69.7796
+
+
+SDRimp =
+
+   -0.6458
+    0.9373
+
+
+SIRimp =
+
+   -0.6458
+    0.9373
+
+
+SAR =
+
+   68.0079
+   68.0195
+
+./experiment/test2/music1_pf_fl_con1/nob_60/200116_191204_music1_pf_fl_con1_fftSize1024_shift256_nb60_it5_seed4.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_40/200116_191204_music1_pf_fl_con1_fftSize1024_shift256_nb40_it5_seed4.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+ 
+Iteration:       1開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2The signals are normalized.
+   3The signals are normalized.
+   4The signals are normalized.
+   5The signals are normalized.
+Iteration:       1 Multichannel NMF done.
+   2Iteration:       1   3Iteration:       1   2   4Iteration:       1   2Iteration:       1   3   5   2   3   4   2 Multichannel NMF done.
+   3   4   5   3   4   5 Multichannel NMF done.
+   4   5 Multichannel NMF done.
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.6465
+    0.9365
+
+
+SIRimp =
+
+   -0.6465
+    0.9365
+
+
+SAR =
+
+   65.4000
+   65.3855
+
+./experiment/test2/music1_pf_fl_con1/nob_10/200116_191220_music1_pf_fl_con1_fftSize1024_shift256_nb10_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.6462
+    0.9374
+
+
+SIRimp =
+
+   -0.6462
+    0.9374
+
+
+SAR =
+
+   66.7685
+   66.7900
+
+./experiment/test2/music1_pf_fl_con1/nob_20/200116_191222_music1_pf_fl_con1_fftSize1024_shift256_nb20_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.6489
+    0.9344
+
+
+SIRimp =
+
+   -0.6489
+    0.9344
+
+
+SAR =
+
+   67.8707
+   67.8801
+
+./experiment/test2/music1_pf_fl_con1/nob_30/200116_191222_music1_pf_fl_con1_fftSize1024_shift256_nb30_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.6489
+    0.9342
+
+
+SIRimp =
+
+   -0.6489
+    0.9342
+
+
+SAR =
+
+   68.9084
+   68.9010
+
+
+SDRimp =
+
+   -0.6489
+    0.9340
+
+
+SIRimp =
+
+   -0.6489
+    0.9340
+
+
+SAR =
+
+   69.1668
+   69.1600
+
+./experiment/test2/music1_pf_fl_con1/nob_40/200116_191223_music1_pf_fl_con1_fftSize1024_shift256_nb40_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.6426
+    0.9408
+
+
+SIRimp =
+
+   -0.6426
+    0.9408
+
+
+SAR =
+
+   68.3550
+   68.3560
+
+./experiment/test2/music1_pf_fl_con1/nob_60/200116_191223_music1_pf_fl_con1_fftSize1024_shift256_nb60_it5_seed5.mat Saved
+./experiment/test2/music1_pf_fl_con1/nob_50/200116_191223_music1_pf_fl_con1_fftSize1024_shift256_nb50_it5_seed5.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   2 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+   3 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   4The signals are normalized.
+   5 Multichannel NMF done.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1The signals are normalized.
+   2Iteration:       1   3   2   4Iteration:       1Iteration:       1   3   5   2Iteration:       1   2   4 Multichannel NMF done.
+   2   3   5   3 Multichannel NMF done.
+   3   4   4   4   5   5   5 Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.7151
+    1.4316
+
+
+SIRimp =
+
+   -0.7151
+    1.4316
+
+
+SAR =
+
+   65.1539
+   65.1856
+
+./experiment/test2/music2_ob_fl_con1/nob_10/200116_191239_music2_ob_fl_con1_fftSize1024_shift256_nb10_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.7148
+    1.4326
+
+
+SIRimp =
+
+   -0.7148
+    1.4326
+
+
+SAR =
+
+   65.2191
+   65.2215
+
+./experiment/test2/music2_ob_fl_con1/nob_20/200116_191240_music2_ob_fl_con1_fftSize1024_shift256_nb20_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.7158
+    1.4311
+
+
+SIRimp =
+
+   -0.7158
+    1.4311
+
+
+SAR =
+
+   67.1929
+   67.1977
+
+./experiment/test2/music2_ob_fl_con1/nob_30/200116_191241_music2_ob_fl_con1_fftSize1024_shift256_nb30_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.7160
+    1.4306
+
+
+SIRimp =
+
+   -0.7160
+    1.4306
+
+
+SAR =
+
+   69.8443
+   69.8670
+
+
+SDRimp =
+
+   -0.7156
+    1.4311
+
+
+SIRimp =
+
+   -0.7156
+    1.4311
+
+
+SAR =
+
+   70.3539
+   70.3469
+
+
+SDRimp =
+
+   -0.7162
+    1.4302
+
+
+SIRimp =
+
+   -0.7162
+    1.4302
+
+
+SAR =
+
+   72.3553
+   72.3502
+
+./experiment/test2/music2_ob_fl_con1/nob_40/200116_191242_music2_ob_fl_con1_fftSize1024_shift256_nb40_it5_seed1.mat Saved
+./experiment/test2/music2_ob_fl_con1/nob_50/200116_191242_music2_ob_fl_con1_fftSize1024_shift256_nb50_it5_seed1.mat Saved
+./experiment/test2/music2_ob_fl_con1/nob_60/200116_191242_music2_ob_fl_con1_fftSize1024_shift256_nb60_it5_seed1.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+Iteration:       1 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2Iteration:       1   3   2   4Iteration:       1   3   5The signals are normalized.
+The signals are normalized.
+   2   4The signals are normalized.
+ Multichannel NMF done.
+   3   5   4 Multichannel NMF done.
+   5Iteration:       1Iteration:       1 Multichannel NMF done.
+Iteration:       1   2   2   2   3   3   3   4   4   4   5   5   5 Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.7162
+    1.4322
+
+
+SIRimp =
+
+   -0.7162
+    1.4322
+
+
+SAR =
+
+   66.7031
+   66.6938
+
+./experiment/test2/music2_ob_fl_con1/nob_10/200116_191258_music2_ob_fl_con1_fftSize1024_shift256_nb10_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.7166
+    1.4308
+
+
+SIRimp =
+
+   -0.7166
+    1.4308
+
+
+SAR =
+
+   65.0266
+   65.0239
+
+
+SDRimp =
+
+   -0.7142
+    1.4322
+
+
+SIRimp =
+
+   -0.7142
+    1.4322
+
+
+SAR =
+
+   67.7017
+   67.7168
+
+./experiment/test2/music2_ob_fl_con1/nob_20/200116_191259_music2_ob_fl_con1_fftSize1024_shift256_nb20_it5_seed2.mat Saved
+./experiment/test2/music2_ob_fl_con1/nob_30/200116_191259_music2_ob_fl_con1_fftSize1024_shift256_nb30_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.7158
+    1.4309
+
+
+SIRimp =
+
+   -0.7158
+    1.4309
+
+
+SAR =
+
+   71.2620
+   71.2608
+
+
+SDRimp =
+
+   -0.7140
+    1.4337
+
+
+SIRimp =
+
+   -0.7140
+    1.4337
+
+
+SAR =
+
+   69.7069
+   69.7185
+
+
+SDRimp =
+
+   -0.7138
+    1.4334
+
+
+SIRimp =
+
+   -0.7138
+    1.4334
+
+
+SAR =
+
+   71.9918
+   71.9800
+
+./experiment/test2/music2_ob_fl_con1/nob_40/200116_191301_music2_ob_fl_con1_fftSize1024_shift256_nb40_it5_seed2.mat Saved
+./experiment/test2/music2_ob_fl_con1/nob_50/200116_191301_music2_ob_fl_con1_fftSize1024_shift256_nb50_it5_seed2.mat Saved
+./experiment/test2/music2_ob_fl_con1/nob_60/200116_191302_music2_ob_fl_con1_fftSize1024_shift256_nb60_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+Iteration:       1   3 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+   4   3   5   4 Multichannel NMF done.
+The signals are normalized.
+   5The signals are normalized.
+ Multichannel NMF done.
+The signals are normalized.
+Iteration:       1   2   3Iteration:       1Iteration:       1   4   2Iteration:       1   2   5   3   2 Multichannel NMF done.
+   3   4   3   4   5   4   5 Multichannel NMF done.
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.7170
+    1.4312
+
+
+SIRimp =
+
+   -0.7170
+    1.4312
+
+
+SAR =
+
+   64.6689
+   64.6709
+
+./experiment/test2/music2_ob_fl_con1/nob_10/200116_191317_music2_ob_fl_con1_fftSize1024_shift256_nb10_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.7165
+    1.4307
+
+
+SIRimp =
+
+   -0.7165
+    1.4307
+
+
+SAR =
+
+   67.0702
+   67.0943
+
+./experiment/test2/music2_ob_fl_con1/nob_20/200116_191317_music2_ob_fl_con1_fftSize1024_shift256_nb20_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.7160
+    1.4311
+
+
+SIRimp =
+
+   -0.7160
+    1.4311
+
+
+SAR =
+
+   68.0193
+   68.0264
+
+./experiment/test2/music2_ob_fl_con1/nob_30/200116_191319_music2_ob_fl_con1_fftSize1024_shift256_nb30_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.7157
+    1.4316
+
+
+SIRimp =
+
+   -0.7157
+    1.4316
+
+
+SAR =
+
+   69.4783
+   69.4644
+
+
+SDRimp =
+
+   -0.7152
+    1.4313
+
+
+SIRimp =
+
+   -0.7152
+    1.4313
+
+
+SAR =
+
+   68.1953
+   68.1861
+
+./experiment/test2/music2_ob_fl_con1/nob_50/200116_191320_music2_ob_fl_con1_fftSize1024_shift256_nb50_it5_seed3.mat Saved
+./experiment/test2/music2_ob_fl_con1/nob_40/200116_191320_music2_ob_fl_con1_fftSize1024_shift256_nb40_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.7149
+    1.4327
+
+
+SIRimp =
+
+   -0.7149
+    1.4327
+
+
+SAR =
+
+   72.1825
+   72.1948
+
+./experiment/test2/music2_ob_fl_con1/nob_60/200116_191321_music2_ob_fl_con1_fftSize1024_shift256_nb60_it5_seed3.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2Iteration:       1   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4 
+   3開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   4 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5 Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1The signals are normalized.
+   2   3The signals are normalized.
+   4Iteration:       1   5Iteration:       1   2 Multichannel NMF done.
+   2   3   3   4Iteration:       1   4   5   2   5 Multichannel NMF done.
+   3 Multichannel NMF done.
+   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.7136
+    1.4344
+
+
+SIRimp =
+
+   -0.7136
+    1.4344
+
+
+SAR =
+
+   62.3761
+   62.3192
+
+./experiment/test2/music2_ob_fl_con1/nob_10/200116_191335_music2_ob_fl_con1_fftSize1024_shift256_nb10_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.7150
+    1.4322
+
+
+SIRimp =
+
+   -0.7150
+    1.4322
+
+
+SAR =
+
+   62.7873
+   62.7968
+
+./experiment/test2/music2_ob_fl_con1/nob_20/200116_191336_music2_ob_fl_con1_fftSize1024_shift256_nb20_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.7117
+    1.4356
+
+
+SIRimp =
+
+   -0.7117
+    1.4356
+
+
+SAR =
+
+   68.5606
+   68.5741
+
+./experiment/test2/music2_ob_fl_con1/nob_30/200116_191338_music2_ob_fl_con1_fftSize1024_shift256_nb30_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.7144
+    1.4334
+
+
+SIRimp =
+
+   -0.7144
+    1.4334
+
+
+SAR =
+
+   67.1015
+   67.1128
+
+
+SDRimp =
+
+   -0.7141
+    1.4333
+
+
+SIRimp =
+
+   -0.7141
+    1.4333
+
+
+SAR =
+
+   69.3858
+   69.3693
+
+./experiment/test2/music2_ob_fl_con1/nob_40/200116_191339_music2_ob_fl_con1_fftSize1024_shift256_nb40_it5_seed4.mat Saved
+./experiment/test2/music2_ob_fl_con1/nob_50/200116_191339_music2_ob_fl_con1_fftSize1024_shift256_nb50_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.7161
+    1.4310
+
+
+SIRimp =
+
+   -0.7161
+    1.4310
+
+
+SAR =
+
+   70.8176
+   70.8138
+
+./experiment/test2/music2_ob_fl_con1/nob_60/200116_191340_music2_ob_fl_con1_fftSize1024_shift256_nb60_it5_seed4.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+[警告: ツールボックス パス キャッシュ
+/home/kamo/.matlab/R2019a/toolbox_cache-9.6.0-2332727085-glnxa64.xml を読み込めま
+せん。キャッシュ ファイルの形式が正しくありません。これは MATLAB を終了すると再生成されます。] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3Iteration:       1 
+   4開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+   3Iteration:       1   4 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2   5The signals are normalized.
+The signals are normalized.
+ Multichannel NMF done.
+   3   4   5The signals are normalized.
+ Multichannel NMF done.
+Iteration:       1Iteration:       1   2   2   3   3   4Iteration:       1   4   5   2   5 Multichannel NMF done.
+ Multichannel NMF done.
+   3   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.7100
+    1.4375
+
+
+SIRimp =
+
+   -0.7100
+    1.4375
+
+
+SAR =
+
+   68.6507
+   68.6682
+
+./experiment/test2/music2_ob_fl_con1/nob_20/200116_191355_music2_ob_fl_con1_fftSize1024_shift256_nb20_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.7164
+    1.4309
+
+
+SIRimp =
+
+   -0.7164
+    1.4309
+
+
+SAR =
+
+   65.3800
+   65.3649
+
+./experiment/test2/music2_ob_fl_con1/nob_10/200116_191355_music2_ob_fl_con1_fftSize1024_shift256_nb10_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.7150
+    1.4315
+
+
+SIRimp =
+
+   -0.7150
+    1.4315
+
+
+SAR =
+
+   67.5264
+   67.5340
+
+./experiment/test2/music2_ob_fl_con1/nob_30/200116_191356_music2_ob_fl_con1_fftSize1024_shift256_nb30_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.7163
+    1.4312
+
+
+SIRimp =
+
+   -0.7163
+    1.4312
+
+
+SAR =
+
+   68.9521
+   68.9469
+
+
+SDRimp =
+
+   -0.7130
+    1.4339
+
+
+SIRimp =
+
+   -0.7130
+    1.4339
+
+
+SAR =
+
+   69.9359
+   69.9394
+
+./experiment/test2/music2_ob_fl_con1/nob_40/200116_191358_music2_ob_fl_con1_fftSize1024_shift256_nb40_it5_seed5.mat Saved
+./experiment/test2/music2_ob_fl_con1/nob_50/200116_191358_music2_ob_fl_con1_fftSize1024_shift256_nb50_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.7163
+    1.4308
+
+
+SIRimp =
+
+   -0.7163
+    1.4308
+
+
+SAR =
+
+   71.2249
+   71.2192
+
+./experiment/test2/music2_ob_fl_con1/nob_60/200116_191359_music2_ob_fl_con1_fftSize1024_shift256_nb60_it5_seed5.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+Iteration:       1   2   3Iteration:       1The signals are normalized.
+   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   2   5   3 Multichannel NMF done.
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5Iteration:       1 Multichannel NMF done.
+   2 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+   3The signals are normalized.
+   4   5 Multichannel NMF done.
+The signals are normalized.
+Iteration:       1Iteration:       1   2   2   3   3Iteration:       1   4   4   2   5   5 Multichannel NMF done.
+   3 Multichannel NMF done.
+   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.2427
+    1.2881
+
+
+SIRimp =
+
+   -0.2427
+    1.2881
+
+
+SAR =
+
+   65.4042
+   65.4417
+
+./experiment/test2/music3_vn_hp_con1/nob_10/200116_191413_music3_vn_hp_con1_fftSize1024_shift256_nb10_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.2449
+    1.2858
+
+
+SIRimp =
+
+   -0.2449
+    1.2858
+
+
+SAR =
+
+   66.3887
+   66.3870
+
+./experiment/test2/music3_vn_hp_con1/nob_20/200116_191414_music3_vn_hp_con1_fftSize1024_shift256_nb20_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.2452
+    1.2842
+
+
+SIRimp =
+
+   -0.2452
+    1.2842
+
+
+SAR =
+
+   68.1350
+   68.1400
+
+./experiment/test2/music3_vn_hp_con1/nob_30/200116_191415_music3_vn_hp_con1_fftSize1024_shift256_nb30_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.2460
+    1.2841
+
+
+SIRimp =
+
+   -0.2460
+    1.2841
+
+
+SAR =
+
+   69.6706
+   69.6435
+
+
+SDRimp =
+
+   -0.2456
+    1.2840
+
+
+SIRimp =
+
+   -0.2456
+    1.2840
+
+
+SAR =
+
+   70.8022
+   70.8079
+
+./experiment/test2/music3_vn_hp_con1/nob_40/200116_191417_music3_vn_hp_con1_fftSize1024_shift256_nb40_it5_seed1.mat Saved
+./experiment/test2/music3_vn_hp_con1/nob_50/200116_191418_music3_vn_hp_con1_fftSize1024_shift256_nb50_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.2466
+    1.2836
+
+
+SIRimp =
+
+   -0.2466
+    1.2836
+
+
+SAR =
+
+   71.7317
+   71.7351
+
+./experiment/test2/music3_vn_hp_con1/nob_60/200116_191418_music3_vn_hp_con1_fftSize1024_shift256_nb60_it5_seed1.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3The signals are normalized.
+   4Iteration:       1   5   2 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3   4Iteration:       1 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5   2 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+The signals are normalized.
+Iteration:       1The signals are normalized.
+   2   3Iteration:       1   4   5   2Iteration:       1 Multichannel NMF done.
+   3   2   3   4   4   5   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.2446
+    1.2856
+
+
+SIRimp =
+
+   -0.2446
+    1.2856
+
+
+SAR =
+
+   67.5985
+   67.5924
+
+./experiment/test2/music3_vn_hp_con1/nob_10/200116_191431_music3_vn_hp_con1_fftSize1024_shift256_nb10_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.2472
+    1.2840
+
+
+SIRimp =
+
+   -0.2472
+    1.2840
+
+
+SAR =
+
+   65.1263
+   65.1223
+
+./experiment/test2/music3_vn_hp_con1/nob_20/200116_191433_music3_vn_hp_con1_fftSize1024_shift256_nb20_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.2466
+    1.2833
+
+
+SIRimp =
+
+   -0.2466
+    1.2833
+
+
+SAR =
+
+   69.0162
+   69.0315
+
+./experiment/test2/music3_vn_hp_con1/nob_30/200116_191433_music3_vn_hp_con1_fftSize1024_shift256_nb30_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.2470
+    1.2835
+
+
+SIRimp =
+
+   -0.2470
+    1.2835
+
+
+SAR =
+
+   71.0948
+   71.0932
+
+./experiment/test2/music3_vn_hp_con1/nob_40/200116_191436_music3_vn_hp_con1_fftSize1024_shift256_nb40_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.2465
+    1.2832
+
+
+SIRimp =
+
+   -0.2465
+    1.2832
+
+
+SAR =
+
+   70.8653
+   70.8514
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music3_vn_hp_con1/nob_50/200116_191437_music3_vn_hp_con1_fftSize1024_shift256_nb50_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.2466
+    1.2827
+
+
+SIRimp =
+
+   -0.2466
+    1.2827
+
+
+SAR =
+
+   72.4205
+   72.4328
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+./experiment/test2/music3_vn_hp_con1/nob_60/200116_191437_music3_vn_hp_con1_fftSize1024_shift256_nb60_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+[警告: ツールボックス パス キャッシュ
+/home/kamo/.matlab/R2019a/toolbox_cache-9.6.0-2332727085-glnxa64.xml を読み込めま
+せん。キャッシュ ファイルの形式が正しくありません。これは MATLAB を終了すると再生成されます。] 
+Iteration:       1 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2The signals are normalized.
+   3   4   5The signals are normalized.
+ Multichannel NMF done.
+Iteration:       1   2   3Iteration:       1   4   2   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+   3 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1   2   2Iteration:       1   3   3   2   4   4   5   3   5 Multichannel NMF done.
+   4 Multichannel NMF done.
+   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.2476
+    1.2847
+
+
+SIRimp =
+
+   -0.2476
+    1.2847
+
+
+SAR =
+
+   64.7920
+   64.7888
+
+./experiment/test2/music3_vn_hp_con1/nob_10/200116_191450_music3_vn_hp_con1_fftSize1024_shift256_nb10_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.2446
+    1.2851
+
+
+SIRimp =
+
+   -0.2446
+    1.2851
+
+
+SAR =
+
+   67.6156
+   67.5945
+
+./experiment/test2/music3_vn_hp_con1/nob_20/200116_191452_music3_vn_hp_con1_fftSize1024_shift256_nb20_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.2447
+    1.2843
+
+
+SIRimp =
+
+   -0.2447
+    1.2843
+
+
+SAR =
+
+   68.9098
+   68.9031
+
+./experiment/test2/music3_vn_hp_con1/nob_30/200116_191452_music3_vn_hp_con1_fftSize1024_shift256_nb30_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.2465
+    1.2827
+
+
+SIRimp =
+
+   -0.2465
+    1.2827
+
+
+SAR =
+
+   67.2251
+   67.2344
+
+
+SDRimp =
+
+   -0.2462
+    1.2836
+
+
+SIRimp =
+
+   -0.2462
+    1.2836
+
+
+SAR =
+
+   71.0397
+   71.0541
+
+./experiment/test2/music3_vn_hp_con1/nob_40/200116_191456_music3_vn_hp_con1_fftSize1024_shift256_nb40_it5_seed3.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music3_vn_hp_con1/nob_50/200116_191456_music3_vn_hp_con1_fftSize1024_shift256_nb50_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.2469
+    1.2840
+
+
+SIRimp =
+
+   -0.2469
+    1.2840
+
+
+SAR =
+
+   71.9621
+   71.9515
+
+./experiment/test2/music3_vn_hp_con1/nob_60/200116_191456_music3_vn_hp_con1_fftSize1024_shift256_nb60_it5_seed3.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+[警告: ツールボックス パス キャッシュ
+/home/kamo/.matlab/R2019a/toolbox_cache-9.6.0-2332727085-glnxa64.xml を読み込めま
+せん。キャッシュ ファイルの形式が正しくありません。これは MATLAB を終了すると再生成されます。] 
+The signals are normalized.
+Iteration:       1 
+   2開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3   4Iteration:       1   5   2 Multichannel NMF done.
+The signals are normalized.
+   3   4   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   2 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   4   5The signals are normalized.
+ Multichannel NMF done.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1   2Iteration:       1Iteration:       1   3   2   4   2   3   5   3   4 Multichannel NMF done.
+   5   4   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.2453
+    1.2838
+
+
+SIRimp =
+
+   -0.2453
+    1.2839
+
+
+SAR =
+
+   62.3634
+   62.4211
+
+./experiment/test2/music3_vn_hp_con1/nob_10/200116_191509_music3_vn_hp_con1_fftSize1024_shift256_nb10_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.2465
+    1.2837
+
+
+SIRimp =
+
+   -0.2465
+    1.2837
+
+
+SAR =
+
+   65.0294
+   65.0340
+
+./experiment/test2/music3_vn_hp_con1/nob_20/200116_191510_music3_vn_hp_con1_fftSize1024_shift256_nb20_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.2468
+    1.2832
+
+
+SIRimp =
+
+   -0.2468
+    1.2832
+
+
+SAR =
+
+   70.5573
+   70.5708
+
+./experiment/test2/music3_vn_hp_con1/nob_30/200116_191512_music3_vn_hp_con1_fftSize1024_shift256_nb30_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.2466
+    1.2826
+
+
+SIRimp =
+
+   -0.2466
+    1.2826
+
+
+SAR =
+
+   68.7323
+   68.7246
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music3_vn_hp_con1/nob_40/200116_191515_music3_vn_hp_con1_fftSize1024_shift256_nb40_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.2468
+    1.2831
+
+
+SIRimp =
+
+   -0.2468
+    1.2831
+
+
+SAR =
+
+   71.4669
+   71.4668
+
+
+SDRimp =
+
+   -0.2470
+    1.2840
+
+
+SIRimp =
+
+   -0.2470
+    1.2840
+
+
+SAR =
+
+   69.3754
+   69.3923
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+./experiment/test2/music3_vn_hp_con1/nob_60/200116_191515_music3_vn_hp_con1_fftSize1024_shift256_nb60_it5_seed4.mat Saved
+./experiment/test2/music3_vn_hp_con1/nob_50/200116_191515_music3_vn_hp_con1_fftSize1024_shift256_nb50_it5_seed4.mat Saved
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+[警告: ツールボックス パス キャッシュ
+/home/kamo/.matlab/R2019a/toolbox_cache-9.6.0-2332727085-glnxa64.xml を読み込めま
+せん。キャッシュ ファイルの形式が正しくありません。これは MATLAB を終了すると再生成されます。] 
+Iteration:       1 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   4   5 Multichannel NMF done.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   2Iteration:       1   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2   4   5   3 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5The signals are normalized.
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1The signals are normalized.
+   2Iteration:       1   3   2   4   3Iteration:       1   5   4 Multichannel NMF done.
+   2   5   3 Multichannel NMF done.
+   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.2457
+    1.2839
+
+
+SIRimp =
+
+   -0.2457
+    1.2839
+
+
+SAR =
+
+   65.3281
+   65.3405
+
+./experiment/test2/music3_vn_hp_con1/nob_10/200116_191528_music3_vn_hp_con1_fftSize1024_shift256_nb10_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.2473
+    1.2842
+
+
+SIRimp =
+
+   -0.2473
+    1.2842
+
+
+SAR =
+
+   67.2406
+   67.2570
+
+
+SDRimp =
+
+   -0.2456
+    1.2836
+
+
+SIRimp =
+
+   -0.2456
+    1.2836
+
+
+SAR =
+
+   68.4285
+   68.4260
+
+./experiment/test2/music3_vn_hp_con1/nob_20/200116_191530_music3_vn_hp_con1_fftSize1024_shift256_nb20_it5_seed5.mat Saved
+./experiment/test2/music3_vn_hp_con1/nob_30/200116_191531_music3_vn_hp_con1_fftSize1024_shift256_nb30_it5_seed5.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.2459
+    1.2832
+
+
+SIRimp =
+
+   -0.2459
+    1.2832
+
+
+SAR =
+
+   69.3672
+   69.3653
+
+
+SDRimp =
+
+   -0.2461
+    1.2841
+
+
+SIRimp =
+
+   -0.2461
+    1.2841
+
+
+SAR =
+
+   69.3532
+   69.3602
+
+./experiment/test2/music3_vn_hp_con1/nob_50/200116_191534_music3_vn_hp_con1_fftSize1024_shift256_nb50_it5_seed5.mat Saved
+./experiment/test2/music3_vn_hp_con1/nob_40/200116_191534_music3_vn_hp_con1_fftSize1024_shift256_nb40_it5_seed5.mat Saved
+The signals are normalized.
+
+SDRimp =
+
+   -0.2459
+    1.2834
+
+
+SIRimp =
+
+   -0.2459
+    1.2834
+
+
+SAR =
+
+   70.9551
+   70.9521
+
+./experiment/test2/music3_vn_hp_con1/nob_60/200116_191535_music3_vn_hp_con1_fftSize1024_shift256_nb60_it5_seed5.mat Saved
+Iteration:       1
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   4 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5 Multichannel NMF done.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1   2   2   3   4   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1   2   2Iteration:       1   3   2   3   4   4   3   5   5   4 Multichannel NMF done.
+ Multichannel NMF done.
+   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.4537
+    0.7074
+
+
+SIRimp =
+
+   -0.4537
+    0.7074
+
+
+SAR =
+
+   64.9604
+   65.0003
+
+./experiment/test2/music4_vn_vc_con1/nob_10/200116_191546_music4_vn_vc_con1_fftSize1024_shift256_nb10_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.4507
+    0.7106
+
+
+SIRimp =
+
+   -0.4507
+    0.7106
+
+
+SAR =
+
+   66.8434
+   66.8449
+
+./experiment/test2/music4_vn_vc_con1/nob_20/200116_191549_music4_vn_vc_con1_fftSize1024_shift256_nb20_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.4536
+    0.7075
+
+
+SIRimp =
+
+   -0.4536
+    0.7075
+
+
+SAR =
+
+   67.7960
+   67.8039
+
+./experiment/test2/music4_vn_vc_con1/nob_30/200116_191550_music4_vn_vc_con1_fftSize1024_shift256_nb30_it5_seed1.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.4548
+    0.7063
+
+
+SIRimp =
+
+   -0.4548
+    0.7063
+
+
+SAR =
+
+   70.6945
+   70.6709
+
+
+SDRimp =
+
+   -0.4538
+    0.7074
+
+
+SIRimp =
+
+   -0.4538
+    0.7074
+
+
+SAR =
+
+   72.0065
+   72.0129
+
+./experiment/test2/music4_vn_vc_con1/nob_40/200116_191554_music4_vn_vc_con1_fftSize1024_shift256_nb40_it5_seed1.mat Saved
+The signals are normalized.
+./experiment/test2/music4_vn_vc_con1/nob_50/200116_191554_music4_vn_vc_con1_fftSize1024_shift256_nb50_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.4552
+    0.7060
+
+
+SIRimp =
+
+   -0.4552
+    0.7060
+
+
+SAR =
+
+   71.4892
+   71.4924
+
+./experiment/test2/music4_vn_vc_con1/nob_60/200116_191554_music4_vn_vc_con1_fftSize1024_shift256_nb60_it5_seed1.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   4   5The signals are normalized.
+ Multichannel NMF done.
+The signals are normalized.
+Iteration:       1   2   3Iteration:       1   4   2   5   3 Multichannel NMF done.
+   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1   2   2Iteration:       1   3   3   2   4   4   3   5   4   5 Multichannel NMF done.
+ Multichannel NMF done.
+   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.4554
+    0.7057
+
+
+SIRimp =
+
+   -0.4554
+    0.7057
+
+
+SAR =
+
+   66.4381
+   66.4481
+
+./experiment/test2/music4_vn_vc_con1/nob_10/200116_191605_music4_vn_vc_con1_fftSize1024_shift256_nb10_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.4536
+    0.7075
+
+
+SIRimp =
+
+   -0.4536
+    0.7075
+
+
+SAR =
+
+   66.4612
+   66.4672
+
+./experiment/test2/music4_vn_vc_con1/nob_20/200116_191608_music4_vn_vc_con1_fftSize1024_shift256_nb20_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.4543
+    0.7070
+
+
+SIRimp =
+
+   -0.4542
+    0.7070
+
+
+SAR =
+
+   70.3898
+   70.4095
+
+./experiment/test2/music4_vn_vc_con1/nob_30/200116_191609_music4_vn_vc_con1_fftSize1024_shift256_nb30_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+SDRimp =
+
+   -0.4553
+    0.7058
+
+
+SIRimp =
+
+   -0.4553
+    0.7058
+
+
+SAR =
+
+   71.7304
+   71.7274
+
+
+SDRimp =
+
+   -0.4528
+    0.7084
+
+
+SIRimp =
+
+   -0.4528
+    0.7084
+
+
+SAR =
+
+   70.5218
+   70.5139
+
+
+SDRimp =
+
+   -0.4543
+    0.7069
+
+
+SIRimp =
+
+   -0.4543
+    0.7069
+
+
+SAR =
+
+   73.6392
+   73.6545
+
+./experiment/test2/music4_vn_vc_con1/nob_40/200116_191613_music4_vn_vc_con1_fftSize1024_shift256_nb40_it5_seed2.mat Saved
+./experiment/test2/music4_vn_vc_con1/nob_50/200116_191613_music4_vn_vc_con1_fftSize1024_shift256_nb50_it5_seed2.mat Saved
+./experiment/test2/music4_vn_vc_con1/nob_60/200116_191613_music4_vn_vc_con1_fftSize1024_shift256_nb60_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1   2 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1   2   3Iteration:       1   4   2   5   3 Multichannel NMF done.
+   4   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+Iteration:       1Iteration:       1The signals are normalized.
+   2   2   3   3   4   4Iteration:       1   5   5   2 Multichannel NMF done.
+ Multichannel NMF done.
+   3   4
+SDRimp =
+
+   -0.4546
+    0.7064
+
+
+SIRimp =
+
+   -0.4546
+    0.7064
+
+
+SAR =
+
+   64.8118
+   64.8065
+
+   5./experiment/test2/music4_vn_vc_con1/nob_10/200116_191624_music4_vn_vc_con1_fftSize1024_shift256_nb10_it5_seed3.mat Saved
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.4546
+    0.7067
+
+
+SIRimp =
+
+   -0.4546
+    0.7067
+
+
+SAR =
+
+   67.4741
+   67.4543
+
+./experiment/test2/music4_vn_vc_con1/nob_20/200116_191627_music4_vn_vc_con1_fftSize1024_shift256_nb20_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.4540
+    0.7072
+
+
+SIRimp =
+
+   -0.4540
+    0.7072
+
+
+SAR =
+
+   68.2534
+   68.2477
+
+./experiment/test2/music4_vn_vc_con1/nob_30/200116_191627_music4_vn_vc_con1_fftSize1024_shift256_nb30_it5_seed3.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+SDRimp =
+
+   -0.4552
+    0.7060
+
+
+SIRimp =
+
+   -0.4552
+    0.7060
+
+
+SAR =
+
+   69.8885
+   69.8954
+
+
+SDRimp =
+
+   -0.4544
+    0.7068
+
+
+SIRimp =
+
+   -0.4544
+    0.7068
+
+
+SAR =
+
+   72.0015
+   72.0170
+
+./experiment/test2/music4_vn_vc_con1/nob_40/200116_191632_music4_vn_vc_con1_fftSize1024_shift256_nb40_it5_seed3.mat Saved
+Iteration:       1./experiment/test2/music4_vn_vc_con1/nob_50/200116_191632_music4_vn_vc_con1_fftSize1024_shift256_nb50_it5_seed3.mat Saved
+   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3
+SDRimp =
+
+   -0.4552
+    0.7058
+
+
+SIRimp =
+
+   -0.4552
+    0.7058
+
+
+SAR =
+
+   71.4011
+   71.3876
+
+   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5./experiment/test2/music4_vn_vc_con1/nob_60/200116_191633_music4_vn_vc_con1_fftSize1024_shift256_nb60_it5_seed3.mat Saved
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+Iteration:       1   2Iteration:       1   3   2   4   3   5   4 Multichannel NMF done.
+   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1Iteration:       1   2   2   2   3
+SDRimp =
+
+   -0.4543
+    0.7069
+
+
+SIRimp =
+
+   -0.4543
+    0.7069
+
+
+SAR =
+
+   64.4815
+   64.5479
+
+   3   4   3   4./experiment/test2/music4_vn_vc_con1/nob_10/200116_191642_music4_vn_vc_con1_fftSize1024_shift256_nb10_it5_seed4.mat Saved
+   5   4   5 Multichannel NMF done.
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.4552
+    0.7060
+
+
+SIRimp =
+
+   -0.4552
+    0.7060
+
+
+SAR =
+
+   66.4963
+   66.5035
+
+
+SDRimp =
+
+   -0.4547
+    0.7065
+
+
+SIRimp =
+
+   -0.4547
+    0.7065
+
+
+SAR =
+
+   69.2526
+   69.2663
+
+./experiment/test2/music4_vn_vc_con1/nob_20/200116_191645_music4_vn_vc_con1_fftSize1024_shift256_nb20_it5_seed4.mat Saved
+./experiment/test2/music4_vn_vc_con1/nob_30/200116_191646_music4_vn_vc_con1_fftSize1024_shift256_nb30_it5_seed4.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3   4
+SDRimp =
+
+   -0.4551
+    0.7061
+
+
+SIRimp =
+
+   -0.4551
+    0.7061
+
+
+SAR =
+
+   70.3524
+   70.3365
+
+
+SDRimp =
+
+   -0.4546
+    0.7066
+
+
+SIRimp =
+
+   -0.4546
+    0.7066
+
+
+SAR =
+
+   68.7079
+   68.7169
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5./experiment/test2/music4_vn_vc_con1/nob_50/200116_191652_music4_vn_vc_con1_fftSize1024_shift256_nb50_it5_seed4.mat Saved
+./experiment/test2/music4_vn_vc_con1/nob_40/200116_191652_music4_vn_vc_con1_fftSize1024_shift256_nb40_it5_seed4.mat Saved
+ 
+
+SDRimp =
+
+   -0.4555
+    0.7057
+
+
+SIRimp =
+
+   -0.4555
+    0.7057
+
+
+SAR =
+
+   72.2634
+   72.2662
+
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music4_vn_vc_con1/nob_60/200116_191652_music4_vn_vc_con1_fftSize1024_shift256_nb60_it5_seed4.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+Iteration:       1   2   3Iteration:       1   4   2   5   3 Multichannel NMF done.
+   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1   2   2Iteration:       1
+SDRimp =
+
+   -0.4539
+    0.7073
+
+
+SIRimp =
+
+   -0.4539
+    0.7073
+
+
+SAR =
+
+   65.3996
+   65.3888
+
+   3   3   2./experiment/test2/music4_vn_vc_con1/nob_10/200116_191701_music4_vn_vc_con1_fftSize1024_shift256_nb10_it5_seed5.mat Saved
+   4   4   3   5   5   4 Multichannel NMF done.
+ Multichannel NMF done.
+   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.4553
+    0.7056
+
+
+SIRimp =
+
+   -0.4553
+    0.7056
+
+
+SAR =
+
+   69.9243
+   69.9087
+
+./experiment/test2/music4_vn_vc_con1/nob_20/200116_191704_music4_vn_vc_con1_fftSize1024_shift256_nb20_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.4528
+    0.7083
+
+
+SIRimp =
+
+   -0.4528
+    0.7083
+
+
+SAR =
+
+   68.0092
+   68.0160
+
+./experiment/test2/music4_vn_vc_con1/nob_30/200116_191705_music4_vn_vc_con1_fftSize1024_shift256_nb30_it5_seed5.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+SDRimp =
+
+   -0.4531
+    0.7081
+
+
+SIRimp =
+
+   -0.4531
+    0.7081
+
+
+SAR =
+
+   70.7236
+   70.7235
+
+
+SDRimp =
+
+   -0.4545
+    0.7067
+
+
+SIRimp =
+
+   -0.4545
+    0.7067
+
+
+SAR =
+
+   70.0585
+   70.0576
+
+
+SDRimp =
+
+   -0.4538
+    0.7073
+
+
+SIRimp =
+
+   -0.4538
+    0.7073
+
+
+SAR =
+
+   71.7019
+   71.7080
+
+./experiment/test2/music4_vn_vc_con1/nob_50/200116_191711_music4_vn_vc_con1_fftSize1024_shift256_nb50_it5_seed5.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+./experiment/test2/music4_vn_vc_con1/nob_40/200116_191711_music4_vn_vc_con1_fftSize1024_shift256_nb40_it5_seed5.mat Saved
+./experiment/test2/music4_vn_vc_con1/nob_60/200116_191711_music4_vn_vc_con1_fftSize1024_shift256_nb60_it5_seed5.mat Saved
+The signals are normalized.
+The signals are normalized.
+Iteration:       1   2Iteration:       1   3   4   2   5   3   4 Multichannel NMF done.
+   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+
+SDRimp =
+
+   -0.0534
+    1.7379
+
+
+SIRimp =
+
+   -0.0534
+    1.7379
+
+
+SAR =
+
+   64.4602
+   64.4993
+
+Iteration:       1Iteration:       1./experiment/test2/music5_ob_vc_con1/nob_10/200116_191719_music5_ob_vc_con1_fftSize1024_shift256_nb10_it5_seed1.mat Saved
+   2Iteration:       1   2   2   3   3   4   3   4   5   4   5 Multichannel NMF done.
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.0554
+    1.7370
+
+
+SIRimp =
+
+   -0.0554
+    1.7370
+
+
+SAR =
+
+   67.6408
+   67.6447
+
+./experiment/test2/music5_ob_vc_con1/nob_20/200116_191723_music5_ob_vc_con1_fftSize1024_shift256_nb20_it5_seed1.mat Saved
+
+SDRimp =
+
+   -0.0555
+    1.7366
+
+
+SIRimp =
+
+   -0.0555
+    1.7366
+
+
+SAR =
+
+   68.0618
+   68.0689
+
+./experiment/test2/music5_ob_vc_con1/nob_30/200116_191724_music5_ob_vc_con1_fftSize1024_shift256_nb30_it5_seed1.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+[警告: ツールボックス パス キャッシュ
+/home/kamo/.matlab/R2019a/toolbox_cache-9.6.0-2332727085-glnxa64.xml を読み込めま
+せん。キャッシュ ファイルの形式が正しくありません。これは MATLAB を終了すると再生成されます。] 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5 Multichannel NMF done.
+ 
+
+SDRimp =
+
+   -0.0572
+    1.7348
+
+
+SIRimp =
+
+   -0.0572
+    1.7348
+
+
+SAR =
+
+   70.1090
+   70.1317
+
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.0570
+    1.7351
+
+
+SIRimp =
+
+   -0.0570
+    1.7351
+
+
+SAR =
+
+   71.7201
+   71.7171
+
+
+SDRimp =
+
+   -0.0572
+    1.7351
+
+
+SIRimp =
+
+   -0.0572
+    1.7352
+
+
+SAR =
+
+   71.1744
+   71.1832
+
+./experiment/test2/music5_ob_vc_con1/nob_40/200116_191730_music5_ob_vc_con1_fftSize1024_shift256_nb40_it5_seed1.mat Saved
+./experiment/test2/music5_ob_vc_con1/nob_60/200116_191730_music5_ob_vc_con1_fftSize1024_shift256_nb60_it5_seed1.mat Saved
+The signals are normalized.
+./experiment/test2/music5_ob_vc_con1/nob_50/200116_191730_music5_ob_vc_con1_fftSize1024_shift256_nb50_it5_seed1.mat Saved
+The signals are normalized.
+Iteration:       1   2Iteration:       1   3   2   4   3   5   4 Multichannel NMF done.
+   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+
+SDRimp =
+
+   -0.0569
+    1.7367
+
+
+SIRimp =
+
+   -0.0569
+    1.7367
+
+
+SAR =
+
+   65.8111
+   65.8226
+
+Iteration:       1./experiment/test2/music5_ob_vc_con1/nob_10/200116_191738_music5_ob_vc_con1_fftSize1024_shift256_nb10_it5_seed2.mat Saved
+Iteration:       1   2Iteration:       1   2   3   2   4   3   3   5   4   4   5 Multichannel NMF done.
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.0543
+    1.7393
+
+
+SIRimp =
+
+   -0.0543
+    1.7393
+
+
+SAR =
+
+   66.2685
+   66.2730
+
+./experiment/test2/music5_ob_vc_con1/nob_20/200116_191742_music5_ob_vc_con1_fftSize1024_shift256_nb20_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.0549
+    1.7384
+
+
+SIRimp =
+
+   -0.0549
+    1.7384
+
+
+SAR =
+
+   69.4297
+   69.4479
+
+./experiment/test2/music5_ob_vc_con1/nob_30/200116_191742_music5_ob_vc_con1_fftSize1024_shift256_nb30_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+SDRimp =
+
+   -0.0575
+    1.7354
+
+
+SIRimp =
+
+   -0.0575
+    1.7354
+
+
+SAR =
+
+   73.1685
+   73.1848
+
+
+SDRimp =
+
+   -0.0571
+    1.7355
+
+
+SIRimp =
+
+   -0.0571
+    1.7355
+
+
+SAR =
+
+   71.9372
+   71.9401
+
+
+SDRimp =
+
+   -0.0554
+    1.7364
+
+
+SIRimp =
+
+   -0.0554
+    1.7364
+
+
+SAR =
+
+   69.8231
+   69.8168
+
+./experiment/test2/music5_ob_vc_con1/nob_40/200116_191749_music5_ob_vc_con1_fftSize1024_shift256_nb40_it5_seed2.mat Saved
+./experiment/test2/music5_ob_vc_con1/nob_60/200116_191749_music5_ob_vc_con1_fftSize1024_shift256_nb60_it5_seed2.mat Saved
+./experiment/test2/music5_ob_vc_con1/nob_50/200116_191749_music5_ob_vc_con1_fftSize1024_shift256_nb50_it5_seed2.mat Saved
+The signals are normalized.
+Iteration:       1   2   3Iteration:       1   4   2   5 Multichannel NMF done.
+   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+SDRimp =
+
+   -0.0549
+    1.7371
+
+
+SIRimp =
+
+   -0.0549
+    1.7371
+
+
+SAR =
+
+   64.7212
+   64.7264
+
+The signals are normalized.
+The signals are normalized.
+./experiment/test2/music5_ob_vc_con1/nob_10/200116_191756_music5_ob_vc_con1_fftSize1024_shift256_nb10_it5_seed3.mat Saved
+Iteration:       1Iteration:       1Iteration:       1   2   2   2   3   3   3   4   4   4   5   5   5 Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.0570
+    1.7362
+
+
+SIRimp =
+
+   -0.0570
+    1.7362
+
+
+SAR =
+
+   67.1725
+   67.1512
+
+./experiment/test2/music5_ob_vc_con1/nob_20/200116_191800_music5_ob_vc_con1_fftSize1024_shift256_nb20_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.0568
+    1.7361
+
+
+SIRimp =
+
+   -0.0568
+    1.7361
+
+
+SAR =
+
+   68.4735
+   68.4697
+
+./experiment/test2/music5_ob_vc_con1/nob_30/200116_191801_music5_ob_vc_con1_fftSize1024_shift256_nb30_it5_seed3.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+SDRimp =
+
+   -0.0567
+    1.7354
+
+
+SIRimp =
+
+   -0.0567
+    1.7354
+
+
+SAR =
+
+   69.8506
+   69.8582
+
+
+SDRimp =
+
+   -0.0552
+    1.7383
+
+
+SIRimp =
+
+   -0.0552
+    1.7383
+
+
+SAR =
+
+   71.9911
+   72.0050
+
+
+SDRimp =
+
+   -0.0570
+    1.7356
+
+
+SIRimp =
+
+   -0.0570
+    1.7356
+
+
+SAR =
+
+   70.5698
+   70.5859
+
+Iteration:       1./experiment/test2/music5_ob_vc_con1/nob_40/200116_191808_music5_ob_vc_con1_fftSize1024_shift256_nb40_it5_seed3.mat Saved
+ 
+./experiment/test2/music5_ob_vc_con1/nob_60/200116_191808_music5_ob_vc_con1_fftSize1024_shift256_nb60_it5_seed3.mat Saved
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+./experiment/test2/music5_ob_vc_con1/nob_50/200116_191808_music5_ob_vc_con1_fftSize1024_shift256_nb50_it5_seed3.mat Saved
+   2   3   4   5The signals are normalized.
+ Multichannel NMF done.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.0573
+    1.7374
+
+
+SIRimp =
+
+   -0.0573
+    1.7374
+
+
+SAR =
+
+   64.9990
+   65.0667
+
+./experiment/test2/music5_ob_vc_con1/nob_10/200116_191815_music5_ob_vc_con1_fftSize1024_shift256_nb10_it5_seed4.mat Saved
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1Iteration:       1   2   2   2   3   3   3   4   4   4   5   5   5
+SDRimp =
+
+   -0.0562
+    1.7343
+
+
+SIRimp =
+
+   -0.0562
+    1.7343
+
+
+SAR =
+
+   64.4722
+   64.4637
+
+ Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+./experiment/test2/music5_ob_vc_con1/nob_20/200116_191819_music5_ob_vc_con1_fftSize1024_shift256_nb20_it5_seed4.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.0542
+    1.7382
+
+
+SIRimp =
+
+   -0.0542
+    1.7382
+
+
+SAR =
+
+   68.8640
+   68.8747
+
+./experiment/test2/music5_ob_vc_con1/nob_30/200116_191821_music5_ob_vc_con1_fftSize1024_shift256_nb30_it5_seed4.mat Saved
+The signals are normalized.
+Iteration:       1   2   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.0572
+    1.7349
+
+
+SIRimp =
+
+   -0.0572
+    1.7349
+
+
+SAR =
+
+   72.1657
+   72.1699
+
+   2
+SDRimp =
+
+   -0.0556
+    1.7357
+
+
+SIRimp =
+
+   -0.0556
+    1.7357
+
+
+SAR =
+
+   68.0523
+   68.0599
+
+
+SDRimp =
+
+   -0.0542
+    1.7384
+
+
+SIRimp =
+
+   -0.0542
+    1.7384
+
+
+SAR =
+
+   69.2275
+   69.2117
+
+   3./experiment/test2/music5_ob_vc_con1/nob_60/200116_191828_music5_ob_vc_con1_fftSize1024_shift256_nb60_it5_seed4.mat Saved
+./experiment/test2/music5_ob_vc_con1/nob_40/200116_191828_music5_ob_vc_con1_fftSize1024_shift256_nb40_it5_seed4.mat Saved
+./experiment/test2/music5_ob_vc_con1/nob_50/200116_191828_music5_ob_vc_con1_fftSize1024_shift256_nb50_it5_seed4.mat Saved
+   4   5The signals are normalized.
+ Multichannel NMF done.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+SDRimp =
+
+   -0.0562
+    1.7371
+
+
+SIRimp =
+
+   -0.0562
+    1.7371
+
+
+SAR =
+
+   65.1431
+   65.1301
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+./experiment/test2/music5_ob_vc_con1/nob_10/200116_191833_music5_ob_vc_con1_fftSize1024_shift256_nb10_it5_seed5.mat Saved
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1Iteration:       1   2   2   2   3   3   3   4   4   4   5   5
+SDRimp =
+
+   -0.0539
+    1.7380
+
+
+SIRimp =
+
+   -0.0539
+    1.7380
+
+
+SAR =
+
+   69.3081
+   69.3199
+
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+./experiment/test2/music5_ob_vc_con1/nob_20/200116_191838_music5_ob_vc_con1_fftSize1024_shift256_nb20_it5_seed5.mat Saved
+
+SDRimp =
+
+   -0.0561
+    1.7374
+
+
+SIRimp =
+
+   -0.0561
+    1.7374
+
+
+SAR =
+
+   67.8725
+   67.8806
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music5_ob_vc_con1/nob_30/200116_191840_music5_ob_vc_con1_fftSize1024_shift256_nb30_it5_seed5.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3 
+   4開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5 Multichannel NMF done.
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1   2 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.0560
+    1.7368
+
+
+SIRimp =
+
+   -0.0560
+    1.7368
+
+
+SAR =
+
+   71.1442
+   71.1521
+
+
+SDRimp =
+
+   -0.0562
+    1.7367
+
+
+SIRimp =
+
+   -0.0562
+    1.7367
+
+
+SAR =
+
+   69.9698
+   69.9735
+
+
+SDRimp =
+
+   -0.0559
+    1.7369
+
+
+SIRimp =
+
+   -0.0559
+    1.7369
+
+
+SAR =
+
+   69.5795
+   69.5757
+
+   3./experiment/test2/music5_ob_vc_con1/nob_60/200116_191847_music5_ob_vc_con1_fftSize1024_shift256_nb60_it5_seed5.mat Saved
+./experiment/test2/music5_ob_vc_con1/nob_50/200116_191847_music5_ob_vc_con1_fftSize1024_shift256_nb50_it5_seed5.mat Saved
+   4./experiment/test2/music5_ob_vc_con1/nob_40/200116_191847_music5_ob_vc_con1_fftSize1024_shift256_nb40_it5_seed5.mat Saved
+   5The signals are normalized.
+ Multichannel NMF done.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+
+SDRimp =
+
+   -0.8495
+    0.4842
+
+
+SIRimp =
+
+   -0.8495
+    0.4842
+
+
+SAR =
+
+   65.0995
+   65.1359
+
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+./experiment/test2/music6_vn_tp_con1/nob_10/200116_191853_music6_vn_tp_con1_fftSize1024_shift256_nb10_it5_seed1.mat Saved
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1Iteration:       1   2   2   2   3   3   4   3
+SDRimp =
+
+   -0.8469
+    0.4861
+
+
+SIRimp =
+
+   -0.8469
+    0.4861
+
+
+SAR =
+
+   66.1614
+   66.1631
+
+   4   5   4   5./experiment/test2/music6_vn_tp_con1/nob_20/200116_191856_music6_vn_tp_con1_fftSize1024_shift256_nb20_it5_seed1.mat Saved
+ Multichannel NMF done.
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.8502
+    0.4827
+
+
+SIRimp =
+
+   -0.8502
+    0.4827
+
+
+SAR =
+
+   67.4234
+   67.4180
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music6_vn_tp_con1/nob_30/200116_191859_music6_vn_tp_con1_fftSize1024_shift256_nb30_it5_seed1.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3   4   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.8500
+    0.4832
+
+
+SIRimp =
+
+   -0.8500
+    0.4832
+
+
+SAR =
+
+   70.2274
+   70.2229
+
+
+SDRimp =
+
+   -0.8505
+    0.4824
+
+
+SIRimp =
+
+   -0.8505
+    0.4824
+
+
+SAR =
+
+   69.6610
+   69.6350
+
+The signals are normalized.
+Iteration:       1
+SDRimp =
+
+   -0.8501
+    0.4828
+
+
+SIRimp =
+
+   -0.8501
+    0.4828
+
+
+SAR =
+
+   72.0319
+   72.0303
+
+./experiment/test2/music6_vn_tp_con1/nob_50/200116_191906_music6_vn_tp_con1_fftSize1024_shift256_nb50_it5_seed1.mat Saved
+./experiment/test2/music6_vn_tp_con1/nob_40/200116_191906_music6_vn_tp_con1_fftSize1024_shift256_nb40_it5_seed1.mat Saved
+   2./experiment/test2/music6_vn_tp_con1/nob_60/200116_191906_music6_vn_tp_con1_fftSize1024_shift256_nb60_it5_seed1.mat Saved
+   3   4Iteration:       1   5   2 Multichannel NMF done.
+   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+SDRimp =
+
+   -0.8491
+    0.4839
+
+
+SIRimp =
+
+   -0.8491
+    0.4839
+
+
+SAR =
+
+   67.0520
+   67.0442
+
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+./experiment/test2/music6_vn_tp_con1/nob_10/200116_191912_music6_vn_tp_con1_fftSize1024_shift256_nb10_it5_seed2.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1Iteration:       1   2   2   2   3   3   3   4   4   4   5   5   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.8483
+    0.4851
+
+
+SIRimp =
+
+   -0.8483
+    0.4851
+
+
+SAR =
+
+   64.8447
+   64.8504
+
+ Multichannel NMF done.
+ Multichannel NMF done.
+./experiment/test2/music6_vn_tp_con1/nob_20/200116_191916_music6_vn_tp_con1_fftSize1024_shift256_nb20_it5_seed2.mat Saved
+
+SDRimp =
+
+   -0.8500
+    0.4828
+
+
+SIRimp =
+
+   -0.8500
+    0.4828
+
+
+SAR =
+
+   67.1481
+   67.1332
+
+./experiment/test2/music6_vn_tp_con1/nob_30/200116_191917_music6_vn_tp_con1_fftSize1024_shift256_nb30_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3   4   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+Iteration:       1
+SDRimp =
+
+   -0.8502
+    0.4830
+
+
+SIRimp =
+
+   -0.8502
+    0.4830
+
+
+SAR =
+
+   72.2385
+   72.2517
+
+
+SDRimp =
+
+   -0.8492
+    0.4838
+
+
+SIRimp =
+
+   -0.8492
+    0.4838
+
+
+SAR =
+
+   70.3713
+   70.3755
+
+   2
+SDRimp =
+
+   -0.8493
+    0.4840
+
+
+SIRimp =
+
+   -0.8493
+    0.4840
+
+
+SAR =
+
+   69.7848
+   69.7735
+
+./experiment/test2/music6_vn_tp_con1/nob_60/200116_191925_music6_vn_tp_con1_fftSize1024_shift256_nb60_it5_seed2.mat Saved
+   3./experiment/test2/music6_vn_tp_con1/nob_40/200116_191925_music6_vn_tp_con1_fftSize1024_shift256_nb40_it5_seed2.mat Saved
+./experiment/test2/music6_vn_tp_con1/nob_50/200116_191925_music6_vn_tp_con1_fftSize1024_shift256_nb50_it5_seed2.mat Saved
+   4Iteration:       1   5   2 Multichannel NMF done.
+   3   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.8481
+    0.4849
+
+
+SIRimp =
+
+   -0.8481
+    0.4849
+
+
+SAR =
+
+   64.5942
+   64.5935
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music6_vn_tp_con1/nob_10/200116_191930_music6_vn_tp_con1_fftSize1024_shift256_nb10_it5_seed3.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1   2Iteration:       1   2   2   3   3   3   4   4   4   5   5   5 Multichannel NMF done.
+
+SDRimp =
+
+   -0.8499
+    0.4827
+
+
+SIRimp =
+
+   -0.8499
+    0.4827
+
+
+SAR =
+
+   67.3605
+   67.3821
+
+ Multichannel NMF done.
+ Multichannel NMF done.
+./experiment/test2/music6_vn_tp_con1/nob_20/200116_191935_music6_vn_tp_con1_fftSize1024_shift256_nb20_it5_seed3.mat Saved
+
+SDRimp =
+
+   -0.8487
+    0.4842
+
+
+SIRimp =
+
+   -0.8487
+    0.4842
+
+
+SAR =
+
+   68.9356
+   68.9294
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music6_vn_tp_con1/nob_30/200116_191936_music6_vn_tp_con1_fftSize1024_shift256_nb30_it5_seed3.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+
+SDRimp =
+
+   -0.8502
+    0.4828
+
+
+SIRimp =
+
+   -0.8502
+    0.4828
+
+
+SAR =
+
+   68.8105
+   68.8166
+
+
+SDRimp =
+
+   -0.8490
+    0.4842
+
+
+SIRimp =
+
+   -0.8490
+    0.4842
+
+
+SAR =
+
+   71.8284
+   71.8164
+
+
+SDRimp =
+
+   -0.8490
+    0.4839
+
+
+SIRimp =
+
+   -0.8490
+    0.4839
+
+
+SAR =
+
+   70.3436
+   70.3299
+
+./experiment/test2/music6_vn_tp_con1/nob_40/200116_191944_music6_vn_tp_con1_fftSize1024_shift256_nb40_it5_seed3.mat Saved
+./experiment/test2/music6_vn_tp_con1/nob_60/200116_191944_music6_vn_tp_con1_fftSize1024_shift256_nb60_it5_seed3.mat Saved
+./experiment/test2/music6_vn_tp_con1/nob_50/200116_191944_music6_vn_tp_con1_fftSize1024_shift256_nb50_it5_seed3.mat Saved
+Iteration:       1Iteration:       1   2   2   3   3   4   4   5   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.8478
+    0.4844
+
+
+SIRimp =
+
+   -0.8478
+    0.4844
+
+
+SAR =
+
+   63.5493
+   63.4860
+
+./experiment/test2/music6_vn_tp_con1/nob_10/200116_191949_music6_vn_tp_con1_fftSize1024_shift256_nb10_it5_seed4.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1Iteration:       1   2   2   2   3   3   4   3   4   5   4   5 Multichannel NMF done.
+   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.8490
+    0.4840
+
+
+SIRimp =
+
+   -0.8490
+    0.4840
+
+
+SAR =
+
+   64.0153
+   64.0263
+
+
+SDRimp =
+
+   -0.8475
+    0.4861
+
+
+SIRimp =
+
+   -0.8475
+    0.4861
+
+
+SAR =
+
+   67.6941
+   67.6859
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music6_vn_tp_con1/nob_20/200116_191955_music6_vn_tp_con1_fftSize1024_shift256_nb20_it5_seed4.mat Saved
+./experiment/test2/music6_vn_tp_con1/nob_30/200116_191955_music6_vn_tp_con1_fftSize1024_shift256_nb30_it5_seed4.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+
+SDRimp =
+
+   -0.8498
+    0.4832
+
+
+SIRimp =
+
+   -0.8498
+    0.4832
+
+
+SAR =
+
+   67.5190
+   67.5279
+
+
+SDRimp =
+
+   -0.8493
+    0.4839
+
+
+SIRimp =
+
+   -0.8493
+    0.4839
+
+
+SAR =
+
+   70.2397
+   70.2573
+
+./experiment/test2/music6_vn_tp_con1/nob_40/200116_192003_music6_vn_tp_con1_fftSize1024_shift256_nb40_it5_seed4.mat Saved
+
+SDRimp =
+
+   -0.8494
+    0.4837
+
+
+SIRimp =
+
+   -0.8494
+    0.4837
+
+
+SAR =
+
+   70.8555
+   70.8547
+
+Iteration:       1Iteration:       1./experiment/test2/music6_vn_tp_con1/nob_50/200116_192003_music6_vn_tp_con1_fftSize1024_shift256_nb50_it5_seed4.mat Saved
+   2./experiment/test2/music6_vn_tp_con1/nob_60/200116_192003_music6_vn_tp_con1_fftSize1024_shift256_nb60_it5_seed4.mat Saved
+   2   3   3   4   4   5   5 Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.8501
+    0.4826
+
+
+SIRimp =
+
+   -0.8501
+    0.4826
+
+
+SAR =
+
+   64.9995
+   65.0124
+
+./experiment/test2/music6_vn_tp_con1/nob_10/200116_192007_music6_vn_tp_con1_fftSize1024_shift256_nb10_it5_seed5.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+Iteration:       1   2The signals are normalized.
+Iteration:       1   3   2   4   3   5   4Iteration:       1 Multichannel NMF done.
+   5   2 Multichannel NMF done.
+
+SDRimp =
+
+   -0.8502
+    0.4830
+
+
+SIRimp =
+
+   -0.8502
+    0.4830
+
+
+SAR =
+
+   67.5081
+   67.5114
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+SDRimp =
+
+   -0.8505
+    0.4825
+
+
+SIRimp =
+
+   -0.8505
+    0.4825
+
+
+SAR =
+
+   67.2143
+   67.1973
+
+   3./experiment/test2/music6_vn_tp_con1/nob_30/200116_192013_music6_vn_tp_con1_fftSize1024_shift256_nb30_it5_seed5.mat Saved
+./experiment/test2/music6_vn_tp_con1/nob_20/200116_192013_music6_vn_tp_con1_fftSize1024_shift256_nb20_it5_seed5.mat Saved
+ 
+   4開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5 Multichannel NMF done.
+The signals are normalized.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -0.8499
+    0.4833
+
+
+SIRimp =
+
+   -0.8499
+    0.4833
+
+
+SAR =
+
+   69.3653
+   69.3707
+
+
+SDRimp =
+
+   -0.8505
+    0.4824
+
+
+SIRimp =
+
+   -0.8505
+    0.4824
+
+
+SAR =
+
+   69.9523
+   69.9529
+
+The signals are normalized.
+Iteration:       1./experiment/test2/music6_vn_tp_con1/nob_40/200116_192022_music6_vn_tp_con1_fftSize1024_shift256_nb40_it5_seed5.mat Saved
+   2./experiment/test2/music6_vn_tp_con1/nob_50/200116_192022_music6_vn_tp_con1_fftSize1024_shift256_nb50_it5_seed5.mat Saved
+   3   4
+SDRimp =
+
+   -0.8497
+    0.4832
+
+
+SIRimp =
+
+   -0.8497
+    0.4832
+
+
+SAR =
+
+   70.7314
+   70.7276
+
+Iteration:       1   5 Multichannel NMF done.
+   2./experiment/test2/music6_vn_tp_con1/nob_60/200116_192023_music6_vn_tp_con1_fftSize1024_shift256_nb60_it5_seed5.mat Saved
+   3   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -1.1347
+    1.1809
+
+
+SIRimp =
+
+   -1.1347
+    1.1809
+
+
+SAR =
+
+   64.1423
+   64.1051
+
+./experiment/test2/music7_fg_fl_con1/nob_10/200116_192026_music7_fg_fl_con1_fftSize1024_shift256_nb10_it5_seed1.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1The signals are normalized.
+   2   3   4Iteration:       1   5Iteration:       1   2 Multichannel NMF done.
+   2
+SDRimp =
+
+   -1.1345
+    1.1812
+
+
+SIRimp =
+
+   -1.1345
+    1.1812
+
+
+SAR =
+
+   66.2561
+   66.2585
+
+   3   3   4./experiment/test2/music7_fg_fl_con1/nob_20/200116_192032_music7_fg_fl_con1_fftSize1024_shift256_nb20_it5_seed1.mat Saved
+   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5   5
+SDRimp =
+
+   -1.1353
+    1.1802
+
+
+SIRimp =
+
+   -1.1353
+    1.1802
+
+
+SAR =
+
+   69.4500
+   69.4569
+
+ Multichannel NMF done.
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+./experiment/test2/music7_fg_fl_con1/nob_30/200116_192033_music7_fg_fl_con1_fftSize1024_shift256_nb30_it5_seed1.mat Saved
+The signals are normalized.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+
+SDRimp =
+
+   -1.1352
+    1.1803
+
+
+SIRimp =
+
+   -1.1352
+    1.1803
+
+
+SAR =
+
+   69.9924
+   70.0143
+
+Iteration:       1./experiment/test2/music7_fg_fl_con1/nob_40/200116_192040_music7_fg_fl_con1_fftSize1024_shift256_nb40_it5_seed1.mat Saved
+   2   3Iteration:       1   4
+SDRimp =
+
+   -1.1357
+    1.1799
+
+
+SIRimp =
+
+   -1.1357
+    1.1799
+
+
+SAR =
+
+   71.2797
+   71.2750
+
+   2   5
+SDRimp =
+
+   -1.1354
+    1.1803
+
+
+SIRimp =
+
+   -1.1354
+    1.1803
+
+
+SAR =
+
+   71.8754
+   71.8800
+
+./experiment/test2/music7_fg_fl_con1/nob_50/200116_192042_music7_fg_fl_con1_fftSize1024_shift256_nb50_it5_seed1.mat Saved
+ Multichannel NMF done.
+   3./experiment/test2/music7_fg_fl_con1/nob_60/200116_192042_music7_fg_fl_con1_fftSize1024_shift256_nb60_it5_seed1.mat Saved
+   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -1.1354
+    1.1801
+
+
+SIRimp =
+
+   -1.1354
+    1.1801
+
+
+SAR =
+
+   68.5948
+   68.6009
+
+./experiment/test2/music7_fg_fl_con1/nob_10/200116_192046_music7_fg_fl_con1_fftSize1024_shift256_nb10_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+Iteration:       1The signals are normalized.
+   2The signals are normalized.
+   3   4   5Iteration:       1 Multichannel NMF done.
+Iteration:       1   2
+SDRimp =
+
+   -1.1297
+    1.1858
+
+
+SIRimp =
+
+   -1.1297
+    1.1858
+
+
+SAR =
+
+   66.5009
+   66.4920
+
+   2   3./experiment/test2/music7_fg_fl_con1/nob_20/200116_192051_music7_fg_fl_con1_fftSize1024_shift256_nb20_it5_seed2.mat Saved
+   3   4   4   5
+SDRimp =
+
+   -1.1330
+    1.1825
+
+
+SIRimp =
+
+   -1.1330
+    1.1825
+
+
+SAR =
+
+   70.1197
+   70.0981
+
+   5 Multichannel NMF done.
+./experiment/test2/music7_fg_fl_con1/nob_30/200116_192052_music7_fg_fl_con1_fftSize1024_shift256_nb30_it5_seed2.mat Saved
+ Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3   4   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+Iteration:       1
+SDRimp =
+
+   -1.1344
+    1.1811
+
+
+SIRimp =
+
+   -1.1344
+    1.1811
+
+
+SAR =
+
+   70.7953
+   70.7925
+
+   2./experiment/test2/music7_fg_fl_con1/nob_40/200116_192059_music7_fg_fl_con1_fftSize1024_shift256_nb40_it5_seed2.mat Saved
+   3   4Iteration:       1   5   2
+SDRimp =
+
+   -1.1341
+    1.1814
+
+
+SIRimp =
+
+   -1.1341
+    1.1814
+
+
+SAR =
+
+   70.5836
+   70.5926
+
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1334
+    1.1821
+
+
+SIRimp =
+
+   -1.1334
+    1.1821
+
+
+SAR =
+
+   72.7796
+   72.7694
+
+   3./experiment/test2/music7_fg_fl_con1/nob_50/200116_192101_music7_fg_fl_con1_fftSize1024_shift256_nb50_it5_seed2.mat Saved
+   4./experiment/test2/music7_fg_fl_con1/nob_60/200116_192101_music7_fg_fl_con1_fftSize1024_shift256_nb60_it5_seed2.mat Saved
+   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+SDRimp =
+
+   -1.1329
+    1.1826
+
+
+SIRimp =
+
+   -1.1329
+    1.1826
+
+
+SAR =
+
+   65.5507
+   65.5459
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+./experiment/test2/music7_fg_fl_con1/nob_10/200116_192105_music7_fg_fl_con1_fftSize1024_shift256_nb10_it5_seed3.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+Iteration:       1   2The signals are normalized.
+The signals are normalized.
+   3   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -1.1335
+    1.1819
+
+
+SIRimp =
+
+   -1.1335
+    1.1819
+
+
+SAR =
+
+   67.6491
+   67.6754
+
+Iteration:       1Iteration:       1   2./experiment/test2/music7_fg_fl_con1/nob_20/200116_192109_music7_fg_fl_con1_fftSize1024_shift256_nb20_it5_seed3.mat Saved
+   2   3   3   4   4   5
+SDRimp =
+
+   -1.1326
+    1.1830
+
+
+SIRimp =
+
+   -1.1326
+    1.1830
+
+
+SAR =
+
+   68.5530
+   68.5562
+
+   5 Multichannel NMF done.
+./experiment/test2/music7_fg_fl_con1/nob_30/200116_192111_music7_fg_fl_con1_fftSize1024_shift256_nb30_it5_seed3.mat Saved
+ Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+SDRimp =
+
+   -1.1353
+    1.1802
+
+
+SIRimp =
+
+   -1.1353
+    1.1802
+
+
+SAR =
+
+   69.9895
+   69.9928
+
+The signals are normalized.
+./experiment/test2/music7_fg_fl_con1/nob_40/200116_192118_music7_fg_fl_con1_fftSize1024_shift256_nb40_it5_seed3.mat Saved
+Iteration:       1   2Iteration:       1   3   4   2
+SDRimp =
+
+   -1.1350
+    1.1806
+
+
+SIRimp =
+
+   -1.1350
+    1.1806
+
+
+SAR =
+
+   71.7468
+   71.7365
+
+
+SDRimp =
+
+   -1.1332
+    1.1824
+
+
+SIRimp =
+
+   -1.1332
+    1.1824
+
+
+SAR =
+
+   70.5061
+   70.4880
+
+   5   3./experiment/test2/music7_fg_fl_con1/nob_60/200116_192120_music7_fg_fl_con1_fftSize1024_shift256_nb60_it5_seed3.mat Saved
+./experiment/test2/music7_fg_fl_con1/nob_50/200116_192120_music7_fg_fl_con1_fftSize1024_shift256_nb50_it5_seed3.mat Saved
+ Multichannel NMF done.
+   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -1.1278
+    1.1876
+
+
+SIRimp =
+
+   -1.1278
+    1.1876
+
+
+SAR =
+
+   63.9058
+   63.8417
+
+./experiment/test2/music7_fg_fl_con1/nob_10/200116_192124_music7_fg_fl_con1_fftSize1024_shift256_nb10_it5_seed4.mat Saved
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+Iteration:       1   2   3   4The signals are normalized.
+The signals are normalized.
+   5 Multichannel NMF done.
+Iteration:       1Iteration:       1   2   2
+SDRimp =
+
+   -1.1318
+    1.1837
+
+
+SIRimp =
+
+   -1.1318
+    1.1837
+
+
+SAR =
+
+   64.1999
+   64.1816
+
+   3   3./experiment/test2/music7_fg_fl_con1/nob_20/200116_192129_music7_fg_fl_con1_fftSize1024_shift256_nb20_it5_seed4.mat Saved
+   4   4
+SDRimp =
+
+   -1.1330
+    1.1825
+
+
+SIRimp =
+
+   -1.1330
+    1.1825
+
+
+SAR =
+
+   68.9352
+   68.9483
+
+   5   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music7_fg_fl_con1/nob_30/200116_192130_music7_fg_fl_con1_fftSize1024_shift256_nb30_it5_seed4.mat Saved
+ Multichannel NMF done.
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -1.1332
+    1.1822
+
+
+SIRimp =
+
+   -1.1332
+    1.1822
+
+
+SAR =
+
+   68.8852
+   68.8977
+
+The signals are normalized.
+./experiment/test2/music7_fg_fl_con1/nob_40/200116_192136_music7_fg_fl_con1_fftSize1024_shift256_nb40_it5_seed4.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+Iteration:       1   2   3The signals are normalized.
+   4
+SDRimp =
+
+   -1.1344
+    1.1811
+
+
+SIRimp =
+
+   -1.1344
+    1.1811
+
+
+SAR =
+
+   71.2551
+   71.2391
+
+   5
+SDRimp =
+
+   -1.1335
+    1.1821
+
+
+SIRimp =
+
+   -1.1335
+    1.1821
+
+
+SAR =
+
+   71.8273
+   71.8218
+
+./experiment/test2/music7_fg_fl_con1/nob_50/200116_192139_music7_fg_fl_con1_fftSize1024_shift256_nb50_it5_seed4.mat Saved
+ Multichannel NMF done.
+./experiment/test2/music7_fg_fl_con1/nob_60/200116_192139_music7_fg_fl_con1_fftSize1024_shift256_nb60_it5_seed4.mat Saved
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -1.1346
+    1.1811
+
+
+SIRimp =
+
+   -1.1346
+    1.1811
+
+
+SAR =
+
+   66.6856
+   66.6708
+
+./experiment/test2/music7_fg_fl_con1/nob_10/200116_192143_music7_fg_fl_con1_fftSize1024_shift256_nb10_it5_seed5.mat Saved
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3   4   5The signals are normalized.
+ Multichannel NMF done.
+The signals are normalized.
+Iteration:       1Iteration:       1   2   2   3
+SDRimp =
+
+   -1.1310
+    1.1845
+
+
+SIRimp =
+
+   -1.1310
+    1.1845
+
+
+SAR =
+
+   69.2684
+   69.2871
+
+   4   3./experiment/test2/music7_fg_fl_con1/nob_20/200116_192148_music7_fg_fl_con1_fftSize1024_shift256_nb20_it5_seed5.mat Saved
+   5   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+   5 
+ Multichannel NMF done.
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -1.1342
+    1.1813
+
+
+SIRimp =
+
+   -1.1342
+    1.1813
+
+
+SAR =
+
+   68.3211
+   68.3319
+
+./experiment/test2/music7_fg_fl_con1/nob_30/200116_192149_music7_fg_fl_con1_fftSize1024_shift256_nb30_it5_seed5.mat Saved
+The signals are normalized.
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -1.1348
+    1.1808
+
+
+SIRimp =
+
+   -1.1348
+    1.1808
+
+
+SAR =
+
+   68.9314
+   68.9346
+
+./experiment/test2/music7_fg_fl_con1/nob_40/200116_192154_music7_fg_fl_con1_fftSize1024_shift256_nb40_it5_seed5.mat Saved
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1 
+   2開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3   4
+SDRimp =
+
+   -1.1317
+    1.1839
+
+
+SIRimp =
+
+   -1.1317
+    1.1839
+
+
+SAR =
+
+   71.5172
+   71.5188
+
+   5The signals are normalized.
+
+SDRimp =
+
+   -1.1345
+    1.1811
+
+
+SIRimp =
+
+   -1.1345
+    1.1811
+
+
+SAR =
+
+   71.5568
+   71.5623
+
+./experiment/test2/music7_fg_fl_con1/nob_50/200116_192157_music7_fg_fl_con1_fftSize1024_shift256_nb50_it5_seed5.mat Saved
+ Multichannel NMF done.
+./experiment/test2/music7_fg_fl_con1/nob_60/200116_192158_music7_fg_fl_con1_fftSize1024_shift256_nb60_it5_seed5.mat Saved
+Iteration:       1   2   3   4   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -1.1797
+    2.3986
+
+
+SIRimp =
+
+   -1.1797
+    2.3986
+
+
+SAR =
+
+   63.5855
+   63.6231
+
+./experiment/test2/music8_fg_tp_con1/nob_10/200116_192201_music8_fg_tp_con1_fftSize1024_shift256_nb10_it5_seed1.mat Saved
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3 
+   4開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5 Multichannel NMF done.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1
+SDRimp =
+
+   -1.1794
+    2.4009
+
+
+SIRimp =
+
+   -1.1794
+    2.4009
+
+
+SAR =
+
+   66.4896
+   66.4951
+
+   2Iteration:       1./experiment/test2/music8_fg_tp_con1/nob_20/200116_192206_music8_fg_tp_con1_fftSize1024_shift256_nb20_it5_seed1.mat Saved
+   3   2   4   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5   4 Multichannel NMF done.
+   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1798
+    2.4011
+
+
+SIRimp =
+
+   -1.1798
+    2.4011
+
+
+SAR =
+
+   68.3199
+   68.3139
+
+The signals are normalized.
+./experiment/test2/music8_fg_tp_con1/nob_30/200116_192209_music8_fg_tp_con1_fftSize1024_shift256_nb30_it5_seed1.mat Saved
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+SDRimp =
+
+   -1.1795
+    2.3999
+
+
+SIRimp =
+
+   -1.1795
+    2.3999
+
+
+SAR =
+
+   69.0063
+   69.0299
+
+./experiment/test2/music8_fg_tp_con1/nob_40/200116_192213_music8_fg_tp_con1_fftSize1024_shift256_nb40_it5_seed1.mat Saved
+Iteration:       1   2   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1793
+    2.4012
+
+
+SIRimp =
+
+   -1.1793
+    2.4012
+
+
+SAR =
+
+   69.7389
+   69.7333
+
+
+SDRimp =
+
+   -1.1796
+    2.3998
+
+
+SIRimp =
+
+   -1.1796
+    2.3998
+
+
+SAR =
+
+   71.7022
+   71.7009
+
+./experiment/test2/music8_fg_tp_con1/nob_60/200116_192217_music8_fg_tp_con1_fftSize1024_shift256_nb60_it5_seed1.mat Saved
+./experiment/test2/music8_fg_tp_con1/nob_50/200116_192217_music8_fg_tp_con1_fftSize1024_shift256_nb50_it5_seed1.mat Saved
+The signals are normalized.
+Iteration:       1   2   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1807
+    2.3991
+
+
+SIRimp =
+
+   -1.1807
+    2.3991
+
+
+SAR =
+
+   67.5009
+   67.5076
+
+./experiment/test2/music8_fg_tp_con1/nob_10/200116_192220_music8_fg_tp_con1_fftSize1024_shift256_nb10_it5_seed2.mat Saved
+The signals are normalized.
+Iteration:       1   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3   4 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+SDRimp =
+
+   -1.1779
+    2.4005
+
+
+SIRimp =
+
+   -1.1779
+    2.4005
+
+
+SAR =
+
+   64.1233
+   64.1102
+
+The signals are normalized.
+./experiment/test2/music8_fg_tp_con1/nob_20/200116_192225_music8_fg_tp_con1_fftSize1024_shift256_nb20_it5_seed2.mat Saved
+Iteration:       1   2   3Iteration:       1   4   2   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3 Multichannel NMF done.
+   4 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   5 Multichannel NMF done.
+
+SDRimp =
+
+   -1.1777
+    2.4011
+
+
+SIRimp =
+
+   -1.1777
+    2.4011
+
+
+SAR =
+
+   67.2322
+   67.2141
+
+./experiment/test2/music8_fg_tp_con1/nob_30/200116_192228_music8_fg_tp_con1_fftSize1024_shift256_nb30_it5_seed2.mat Saved
+The signals are normalized.
+Iteration:       1   2   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1774
+    2.4022
+
+
+SIRimp =
+
+   -1.1774
+    2.4022
+
+
+SAR =
+
+   70.4383
+   70.4393
+
+./experiment/test2/music8_fg_tp_con1/nob_40/200116_192232_music8_fg_tp_con1_fftSize1024_shift256_nb40_it5_seed2.mat Saved
+The signals are normalized.
+Iteration:       1   2   3   4   5
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -1.1807
+    2.3992
+
+
+SIRimp =
+
+   -1.1807
+    2.3992
+
+
+SAR =
+
+   69.4639
+   69.4742
+
+./experiment/test2/music8_fg_tp_con1/nob_50/200116_192235_music8_fg_tp_con1_fftSize1024_shift256_nb50_it5_seed2.mat Saved
+
+SDRimp =
+
+   -1.1799
+    2.4003
+
+
+SIRimp =
+
+   -1.1799
+    2.4003
+
+
+SAR =
+
+   71.9085
+   71.9205
+
+The signals are normalized.
+./experiment/test2/music8_fg_tp_con1/nob_60/200116_192236_music8_fg_tp_con1_fftSize1024_shift256_nb60_it5_seed2.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1 
+   2開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3   4   5The signals are normalized.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1777
+    2.4016
+
+
+SIRimp =
+
+   -1.1777
+    2.4016
+
+
+SAR =
+
+   64.5861
+   64.5836
+
+Iteration:       1./experiment/test2/music8_fg_tp_con1/nob_10/200116_192240_music8_fg_tp_con1_fftSize1024_shift256_nb10_it5_seed3.mat Saved
+   2   3   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5 Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+
+SDRimp =
+
+   -1.1804
+    2.3990
+
+
+SIRimp =
+
+   -1.1804
+    2.3990
+
+
+SAR =
+
+   66.2995
+   66.3217
+
+Iteration:       1./experiment/test2/music8_fg_tp_con1/nob_20/200116_192244_music8_fg_tp_con1_fftSize1024_shift256_nb20_it5_seed3.mat Saved
+   2   3Iteration:       1   4   2   5   3 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+The signals are normalized.
+
+SDRimp =
+
+   -1.1797
+    2.3991
+
+
+SIRimp =
+
+   -1.1797
+    2.3991
+
+
+SAR =
+
+   68.9836
+   68.9859
+
+./experiment/test2/music8_fg_tp_con1/nob_30/200116_192247_music8_fg_tp_con1_fftSize1024_shift256_nb30_it5_seed3.mat Saved
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+SDRimp =
+
+   -1.1790
+    2.4003
+
+
+SIRimp =
+
+   -1.1790
+    2.4003
+
+
+SAR =
+
+   69.4436
+   69.4478
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+./experiment/test2/music8_fg_tp_con1/nob_40/200116_192250_music8_fg_tp_con1_fftSize1024_shift256_nb40_it5_seed3.mat Saved
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+Iteration:       1   2 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3
+SDRimp =
+
+   -1.1762
+    2.4029
+
+
+SIRimp =
+
+   -1.1762
+    2.4029
+
+
+SAR =
+
+   68.4902
+   68.4726
+
+   4./experiment/test2/music8_fg_tp_con1/nob_50/200116_192254_music8_fg_tp_con1_fftSize1024_shift256_nb50_it5_seed3.mat Saved
+   5The signals are normalized.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1790
+    2.4001
+
+
+SIRimp =
+
+   -1.1790
+    2.4001
+
+
+SAR =
+
+   70.9316
+   70.9205
+
+./experiment/test2/music8_fg_tp_con1/nob_60/200116_192255_music8_fg_tp_con1_fftSize1024_shift256_nb60_it5_seed3.mat Saved
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+[警告: ツールボックス パス キャッシュ
+/home/kamo/.matlab/R2019a/toolbox_cache-9.6.0-2332727085-glnxa64.xml を読み込めま
+せん。キャッシュ ファイルの形式が正しくありません。これは MATLAB を終了すると再生成されます。] 
+Iteration:       1   2   3   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1737
+    2.4066
+
+
+SIRimp =
+
+   -1.1737
+    2.4066
+
+
+SAR =
+
+   63.4736
+   63.4089
+
+The signals are normalized.
+./experiment/test2/music8_fg_tp_con1/nob_10/200116_192258_music8_fg_tp_con1_fftSize1024_shift256_nb10_it5_seed4.mat Saved
+Iteration:       1
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   2 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1   2   3Iteration:       1
+SDRimp =
+
+   -1.1778
+    2.4020
+
+
+SIRimp =
+
+   -1.1778
+    2.4020
+
+
+SAR =
+
+   62.7909
+   62.7750
+
+   4   2./experiment/test2/music8_fg_tp_con1/nob_20/200116_192303_music8_fg_tp_con1_fftSize1024_shift256_nb20_it5_seed4.mat Saved
+   5   3
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ Multichannel NMF done.
+   4   5 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1784
+    2.4010
+
+
+SIRimp =
+
+   -1.1784
+    2.4010
+
+
+SAR =
+
+   68.0231
+   68.0149
+
+The signals are normalized.
+./experiment/test2/music8_fg_tp_con1/nob_30/200116_192306_music8_fg_tp_con1_fftSize1024_shift256_nb30_it5_seed4.mat Saved
+Iteration:       1   2   3   4   5 Multichannel NMF done.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+SDRimp =
+
+   -1.1787
+    2.3995
+
+
+SIRimp =
+
+   -1.1787
+    2.3995
+
+
+SAR =
+
+   68.1995
+   68.2098
+
+./experiment/test2/music8_fg_tp_con1/nob_40/200116_192310_music8_fg_tp_con1_fftSize1024_shift256_nb40_it5_seed4.mat Saved
+The signals are normalized.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+[警告: ツールボックス パス キャッシュ
+/home/kamo/.matlab/R2019a/toolbox_cache-9.6.0-2332727085-glnxa64.xml を読み込めま
+せん。キャッシュ ファイルの形式が正しくありません。これは MATLAB を終了すると再生成されます。] 
+Iteration:       1 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+   2   3
+SDRimp =
+
+   -1.1797
+    2.4002
+
+
+SIRimp =
+
+   -1.1797
+    2.4002
+
+
+SAR =
+
+   70.1188
+   70.1358
+
+   4   5./experiment/test2/music8_fg_tp_con1/nob_50/200116_192313_music8_fg_tp_con1_fftSize1024_shift256_nb50_it5_seed4.mat Saved
+The signals are normalized.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -1.1787
+    2.4005
+
+
+SIRimp =
+
+   -1.1787
+    2.4005
+
+
+SAR =
+
+   71.7234
+   71.7201
+
+./experiment/test2/music8_fg_tp_con1/nob_60/200116_192314_music8_fg_tp_con1_fftSize1024_shift256_nb60_it5_seed4.mat Saved
+Iteration:       1   2   3   4
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5 Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+
+SDRimp =
+
+   -1.1797
+    2.3998
+
+
+SIRimp =
+
+   -1.1797
+    2.3998
+
+
+SAR =
+
+   65.6137
+   65.6265
+
+./experiment/test2/music8_fg_tp_con1/nob_10/200116_192317_music8_fg_tp_con1_fftSize1024_shift256_nb10_it5_seed5.mat Saved
+Iteration:       1   2
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   3   4 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+   5 Multichannel NMF done.
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+The signals are normalized.
+The signals are normalized.
+Iteration:       1   2
+SDRimp =
+
+   -1.1794
+    2.3997
+
+
+SIRimp =
+
+   -1.1794
+    2.3997
+
+
+SAR =
+
+   67.3099
+   67.3250
+
+Iteration:       1   3   2./experiment/test2/music8_fg_tp_con1/nob_20/200116_192322_music8_fg_tp_con1_fftSize1024_shift256_nb20_it5_seed5.mat Saved
+   4   3   5   4 Multichannel NMF done.
+   5 Multichannel NMF done.
+
+SDRimp =
+
+   -1.1791
+    2.4001
+
+
+SIRimp =
+
+   -1.1791
+    2.4001
+
+
+SAR =
+
+   67.0344
+   67.0283
+
+./experiment/test2/music8_fg_tp_con1/nob_30/200116_192325_music8_fg_tp_con1_fftSize1024_shift256_nb30_it5_seed5.mat Saved
+
+SDRimp =
+
+   -1.1784
+    2.4007
+
+
+SIRimp =
+
+   -1.1784
+    2.4007
+
+
+SAR =
+
+   68.1731
+   68.1769
+
+./experiment/test2/music8_fg_tp_con1/nob_40/200116_192328_music8_fg_tp_con1_fftSize1024_shift256_nb40_it5_seed5.mat Saved
+
+SDRimp =
+
+   -1.1783
+    2.4016
+
+
+SIRimp =
+
+   -1.1783
+    2.4016
+
+
+SAR =
+
+   69.2245
+   69.2230
+
+./experiment/test2/music8_fg_tp_con1/nob_50/200116_192331_music8_fg_tp_con1_fftSize1024_shift256_nb50_it5_seed5.mat Saved
+
+SDRimp =
+
+   -1.1797
+    2.4006
+
+
+SIRimp =
+
+   -1.1797
+    2.4006
+
+
+SAR =
+
+   70.7152
+   70.7106
+
+./experiment/test2/music8_fg_tp_con1/nob_60/200116_192332_music8_fg_tp_con1_fftSize1024_shift256_nb60_it5_seed5.mat Saved
