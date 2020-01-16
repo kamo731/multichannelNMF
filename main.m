@@ -62,16 +62,20 @@ SDRimp = SDR - inputSDRSIR
 SIRimp = SIR - inputSDRSIR
 SAR
 
+root_dir = "./experiment/test/";
+music_num = 1;
+saveMat( root_dir, music_num, seed, fftSize, shiftSize, nb, it, SDR, SIR, SAR, SDRimp, SIRimp, cost );
+
 % Output separated signals
 outputDir = sprintf('./output');
 if ~isdir( outputDir )
     mkdir( outputDir );
 end
-audiowrite(sprintf('%s/observedMixture.wav', outputDir), mix, fsResample); % observed signal
-audiowrite(sprintf('%s/originalSource1.wav', outputDir), sig_resample(:,:,1), fsResample); % source signal 1
-audiowrite(sprintf('%s/originalSource2.wav', outputDir), sig_resample(:,:,2), fsResample); % source signal 2
-audiowrite(sprintf('%s/estimatedSignal1.wav', outputDir), sep(:,:,1), fsResample); % estimated signal 1
-audiowrite(sprintf('%s/estimatedSignal2.wav', outputDir), sep(:,:,2), fsResample); % estimated signal 2
+% audiowrite(sprintf('%s/observedMixture.wav', outputDir), mix, fsResample); % observed signal
+% audiowrite(sprintf('%s/originalSource1.wav', outputDir), sig_resample(:,:,1), fsResample); % source signal 1
+% audiowrite(sprintf('%s/originalSource2.wav', outputDir), sig_resample(:,:,2), fsResample); % source signal 2
+% audiowrite(sprintf('%s/estimatedSignal1.wav', outputDir), sep(:,:,1), fsResample); % estimated signal 1
+% audiowrite(sprintf('%s/estimatedSignal2.wav', outputDir), sep(:,:,2), fsResample); % estimated signal 2
 
-fprintf('The files are saved in "./output".\n');
+% fprintf('The files are saved in "./output".\n');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% EOF %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
