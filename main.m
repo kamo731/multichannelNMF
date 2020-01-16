@@ -39,11 +39,7 @@ sig_resample(:,:,1) = resample(sig(:,:,1), fsResample, fs, 100); % resampling fo
 sig_resample(:,:,2) = resample(sig(:,:,2), fsResample, fs, 100); % resampling for reducing computational cost
 
 % Mixing source images in each channel to produce observed signal
-mix(:,1) = sig_resample(:,1,1) + sig_resample(:,1,2);
-mix(:,2) = sig_resample(:,2,1) + sig_resample(:,2,2);
-if abs(max(max(mix))) > 1.00 % check clipping
-    error('Cliping detected.\n');
-end
+mix = SNRmix(sig_resample(:,:,1), sig_resample(:,:,2), 0);
 
 % Reference signals for performance evaluation using bss_eval_sources
 src(:,1) = sig_resample(:,refMic,1);
