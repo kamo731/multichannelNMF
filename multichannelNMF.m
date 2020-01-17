@@ -185,7 +185,7 @@ end
 function [ H ] = local_RiccatiSolver(X, Y, T, V, H, Z, I, J, N, M)
 X = reshape(permute(X, [3 4 2 1]), [M*M, J, I]); % invXhatXinvXhat, MM x J x I
 Y = reshape(permute(Y, [3 4 2 1]), [M*M, J, I]); % invXhat, MM x J x I
-deltaEyeM = eye(M)*(10^(-12)); % to avoid numerical instability
+deltaEyeM = eye(M)*(10^(-7)); % to avoid numerical instability (kubosanha-7)
 for n = 1:N % Riccati equation solver described in the original paper
     for i = 1:I
         ZTV = (T(i,:).*Z(:,n)')*V;
