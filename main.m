@@ -29,7 +29,7 @@ ns = 2; % number of sources
 fftSize = 1024; % window length in STFT [points]
 shiftSize = 256; % shift length in STFT [points]
 % nb = 20; % number of NMF bases for all sources (total bases)
-it = 6; % number of iterations (define by checking convergence behavior with drawConv=true)
+it = 6000; % number of iterations (define by checking convergence behavior with drawConv=true)
 drawConv = false; % true or false (true: plot cost function values in each iteration and show convergence behavior, false: faster and do not plot cost function values)
 
 % Fix random seed
