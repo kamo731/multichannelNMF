@@ -33,6 +33,30 @@ switch music_num
         music_fname = "music7_fg_fl_con2";
     case 18
         music_fname = "music8_fg_tp_con2";
+    case 21
+        music_fname = "speech1_f1_f2_con1";
+    case 22
+        music_fname = "speech2_f3_f4_con1";
+    case 23
+        music_fname = "speech3_m1_m2_con1";
+    case 24
+        music_fname = "speech4_m3_m4_con1";
+    case 25
+        music_fname = "speech5_m1_f2_con1";
+    case 26
+        music_fname = "speech6_m3_f4_con1";
+    case 31
+        music_fname = "speech1_f1_f2_con1";
+    case 32
+        music_fname = "speech2_f3_f4_con1";
+    case 33
+        music_fname = "speech3_m1_m2_con1";
+    case 34
+        music_fname = "speech4_m3_m4_con1";
+    case 35
+        music_fname = "speech5_m1_f2_con1";
+    case 36
+        music_fname = "speech6_m3_f4_con1";
 end
 
 %% file name

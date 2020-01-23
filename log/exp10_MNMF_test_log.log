@@ -1,0 +1,191 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 3 (9.6.0.1135713) 64-bit (glnxa64)
+                                June 5, 2019
+
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+music 22 seed 1 nb 10 
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+ 
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+開始するには doc と入力してください。
+製品情報については、www.mathworks.co.jp を参照してください。
+ 
+music 26 seed 1 nb 10 
+music 24 seed 1 nb 10 
+music 21 seed 1 nb 10 
+music 25 seed 1 nb 10 
+music 23 seed 1 nb 10 
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+The signals are normalized.
+Iteration:       1Iteration:       1 Multichannel NMF done.
+ Multichannel NMF done.
+Iteration:       1Iteration:       1Iteration:       1Iteration:       1 Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+ Multichannel NMF done.
+
+SDRimp =
+
+   -0.9593
+    1.2107
+
+
+SIRimp =
+
+   -0.9593
+    1.2107
+
+
+SAR =
+
+   65.6328
+   65.6194
+
+./experiment/exp10_MNMF_test/speech1_f1_f2_con1/nob_10/200123_195156_speech1_f1_f2_con1_fftSize1024_shift256_nb10_it1_seed1.mat Saved
+
+SDRimp =
+
+   -1.1400
+    1.0208
+
+
+SIRimp =
+
+   -1.1400
+    1.0208
+
+
+SAR =
+
+   65.7693
+   65.7829
+
+./experiment/exp10_MNMF_test/speech2_f3_f4_con1/nob_10/200123_195157_speech2_f3_f4_con1_fftSize1024_shift256_nb10_it1_seed1.mat Saved
+
+SDRimp =
+
+   -1.0666
+    1.1581
+
+
+SIRimp =
+
+   -1.0666
+    1.1581
+
+
+SAR =
+
+   65.4844
+   65.4685
+
+
+SDRimp =
+
+   -0.8470
+    1.3907
+
+
+SIRimp =
+
+   -0.8470
+    1.3907
+
+
+SAR =
+
+   65.2661
+   65.2531
+
+
+SDRimp =
+
+   -1.0409
+    1.1014
+
+
+SIRimp =
+
+   -1.0409
+    1.1014
+
+
+SAR =
+
+   64.9186
+   64.9038
+
+./experiment/exp10_MNMF_test/speech3_m1_m2_con1/nob_10/200123_195158_speech3_m1_m2_con1_fftSize1024_shift256_nb10_it1_seed1.mat Saved
+./experiment/exp10_MNMF_test/speech6_m3_f4_con1/nob_10/200123_195158_speech6_m3_f4_con1_fftSize1024_shift256_nb10_it1_seed1.mat Saved
+
+SDRimp =
+
+   -1.0157
+    1.2175
+
+
+SIRimp =
+
+   -1.0157
+    1.2175
+
+
+SAR =
+
+   65.3970
+   65.3821
+
+./experiment/exp10_MNMF_test/speech4_m3_m4_con1/nob_10/200123_195158_speech4_m3_m4_con1_fftSize1024_shift256_nb10_it1_seed1.mat Saved
+./experiment/exp10_MNMF_test/speech5_m1_f2_con1/nob_10/200123_195158_speech5_m1_f2_con1_fftSize1024_shift256_nb10_it1_seed1.mat Saved
