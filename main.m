@@ -1,4 +1,4 @@
-function main( seed, music_num, nb )
+function main( music_num, nb, seed )
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Sample program for blind source separation using multichannel           %
 % nonnegative matrix factorization (multichannel NMF)                     %
@@ -19,7 +19,7 @@ fprintf("music %s seed %s nb %s \n", num2str(music_num), num2str(seed), num2str(
 % close all;
 addpath('./bss_eval'); % BSS eval is shared under GPLv3 license
 addpath('./lib');
-root_dir = "./experiment/exp10_MNMF/";
+root_dir = "./experiment/exp11_MNMF/";
 
 % Parameters
 % seed = 1; % pseudo random seed
@@ -29,7 +29,7 @@ ns = 2; % number of sources
 fftSize = 1024; % window length in STFT [points]
 shiftSize = 256; % shift length in STFT [points]
 % nb = 20; % number of NMF bases for all sources (total bases)
-it = 6000; % number of iterations (define by checking convergence behavior with drawConv=true)
+it = 300; % number of iterations (define by checking convergence behavior with drawConv=true)
 drawConv = false; % true or false (true: plot cost function values in each iteration and show convergence behavior, false: faster and do not plot cost function values)
 
 % Fix random seed
