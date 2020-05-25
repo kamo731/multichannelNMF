@@ -19,7 +19,7 @@ fprintf("music %s seed %s nb %s \n", num2str(music_num), num2str(seed), num2str(
 % close all;
 addpath('./bss_eval'); % BSS eval is shared under GPLv3 license
 addpath('./lib');
-root_dir = "./experiment/exp11_MNMF/";
+root_dir = "./experiment/for_wav/";
 
 % Parameters
 % seed = 1; % pseudo random seed
@@ -29,7 +29,7 @@ ns = 2; % number of sources
 fftSize = 1024; % window length in STFT [points]
 shiftSize = 256; % shift length in STFT [points]
 % nb = 20; % number of NMF bases for all sources (total bases)
-it = 300; % number of iterations (define by checking convergence behavior with drawConv=true)
+it = 6000; % number of iterations (define by checking convergence behavior with drawConv=true)
 drawConv = false; % true or false (true: plot cost function values in each iteration and show convergence behavior, false: faster and do not plot cost function values)
 
 % Fix random seed
@@ -67,12 +67,12 @@ outputDir = sprintf('./output');
 if ~isdir( outputDir )
     mkdir( outputDir );
 end
-% audiowrite(sprintf('%s/observedMixture.wav', outputDir), mix, fsResample); % observed signal
-% audiowrite(sprintf('%s/originalSource1.wav', outputDir), sig_resample(:,:,1), fsResample); % source signal 1
-% audiowrite(sprintf('%s/originalSource2.wav', outputDir), sig_resample(:,:,2), fsResample); % source signal 2
-% audiowrite(sprintf('%s/estimatedSignal1.wav', outputDir), sep(:,:,1), fsResample); % estimated signal 1
-% audiowrite(sprintf('%s/estimatedSignal2.wav', outputDir), sep(:,:,2), fsResample); % estimated signal 2
+audiowrite(sprintf('%s/observedMixture.wav', outputDir), mix, fsResample); % observed signal
+audiowrite(sprintf('%s/originalSource1.wav', outputDir), sig_resample(:,:,1), fsResample); % source signal 1
+audiowrite(sprintf('%s/originalSource2.wav', outputDir), sig_resample(:,:,2), fsResample); % source signal 2
+audiowrite(sprintf('%s/estimatedSignal1.wav', outputDir), sep(:,:,1), fsResample); % estimated signal 1
+audiowrite(sprintf('%s/estimatedSignal2.wav', outputDir), sep(:,:,2), fsResample); % estimated signal 2
 
-% fprintf('The files are saved in "./output".\n');
+fprintf('The files are saved in "./output".\n');
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% EOF %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

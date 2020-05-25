@@ -1,4 +1,4 @@
-seed = 1;
-music_num = 25;
-nb = 10;
-main( seed, music_num, nb )
+seed = 5;
+music_num = 11;
+nb = 60;
+main( music_num, nb, seed )
