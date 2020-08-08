@@ -1,4 +1,8 @@
-function main( music_num, nb, seed )
+% function main( music_num, nb, seed )
+function [ SDR, SIR, SAR, attrs_sdris, attrs_siris, SDR_last, SIR_last, SAR_last, cost ] = ...
+    main( IR_cond, wav_number, seed, it, nb, ns, fsResample, fftSize, shiftSize, ...
+    calc_sdr_ratio, isWhitening, isOutputWav, isCalcCost, isPrintVerbose, isSaveMat, isGetWavMode,...
+    date, exp_id, method, purpose, memo)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Sample program for blind source separation using multichannel           %
 % nonnegative matrix factorization (multichannel NMF)                     %
@@ -14,29 +18,20 @@ function main( music_num, nb, seed )
 % See also:                                                               %
 % http://d-kitamura.net                                                   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-fprintf("music %s seed %s nb %s \n", num2str(music_num), num2str(seed), num2str(nb));
-% clear;
-% close all;
 addpath('./bss_eval'); % BSS eval is shared under GPLv3 license
 addpath('./lib');
-root_dir = "./experiment/for_wav/";
+addpath('../bss_input');
+% root_dir = "./experiment/for_wav/";
 
 % Parameters
-% seed = 1; % pseudo random seed
 refMic = 1; % reference mic for performance evaluation using bss_eval_sources
-fsResample = 16000; % resampling frequency [Hz]
-ns = 2; % number of sources
-fftSize = 1024; % window length in STFT [points]
-shiftSize = 256; % shift length in STFT [points]
-% nb = 20; % number of NMF bases for all sources (total bases)
-it = 6000; % number of iterations (define by checking convergence behavior with drawConv=true)
 drawConv = false; % true or false (true: plot cost function values in each iteration and show convergence behavior, false: faster and do not plot cost function values)
 
 % Fix random seed
 RandStream.setGlobalStream(RandStream('mt19937ar','Seed',seed));
 
 % Input data and resample
-[ sig, fs ] = musicMap(music_num);
+[ sig, fs ] = loadInputWav(IR_cond, wav_number);
 sig_resample(:,:,1) = resample(sig(:,:,1), fsResample, fs, 100); % resampling for reducing computational cost
 sig_resample(:,:,2) = resample(sig(:,:,2), fsResample, fs, 100); % resampling for reducing computational cost
 
@@ -55,24 +50,41 @@ inputSDRSIR(2,1) = 10.*log10( sum(sum(squeeze(sig_resample(:,2,refMic)).^2)) ./ 
 [sep,cost] = bss_multichannelNMF(mix,ns,nb,fftSize,shiftSize,it,drawConv);
 
 % Performance evaluation using bss_eval_sources
-[SDR,SIR,SAR] = bss_eval_sources(squeeze(sep(:,refMic,:)).', src.');
-SDRimp = SDR - inputSDRSIR
-SIRimp = SIR - inputSDRSIR
-SAR
+[SDR_last,SIR_last,SAR_last] = bss_eval_sources(squeeze(sep(:,refMic,:)).', src.');
+SDRimp_last = SDR_last - inputSDRSIR;
+SIRimp_last = SIR_last - inputSDRSIR;
+% SAR
 
-saveMat( root_dir, music_num, seed, fftSize, shiftSize, nb, it, SDR, SIR, SAR, SDRimp, SIRimp, cost );
+SDR = [];
+SIR = [];
+SAR = [];
+attrs_sdris = [];
+attrs_siris = [];
+attrs_sar = [];
+
+% save mat file
+if isSaveMat
+    saveMat(IR_cond, wav_number, seed, it, nb, ns, fsResample, fftSize, shiftSize, ...
+            calc_sdr_ratio, isWhitening, isCalcCost, isOutputWav, isPrintVerbose, ...
+            date, exp_id, method, purpose, memo, ...
+            SDR_last, SIR_last, SAR_last, SDRimp_last, SIRimp_last, cost, ...
+            attrs_sdris, attrs_siris, attrs_sar);
+end
+% saveMat( root_dir, music_num, seed, fftSize, shiftSize, nb, it, SDR, SIR, SAR, SDRimp, SIRimp, cost );
 
 % Output separated signals
 outputDir = sprintf('./output');
-if ~isdir( outputDir )
+if ~isfolder( outputDir )
     mkdir( outputDir );
 end
-audiowrite(sprintf('%s/observedMixture.wav', outputDir), mix, fsResample); % observed signal
-audiowrite(sprintf('%s/originalSource1.wav', outputDir), sig_resample(:,:,1), fsResample); % source signal 1
-audiowrite(sprintf('%s/originalSource2.wav', outputDir), sig_resample(:,:,2), fsResample); % source signal 2
-audiowrite(sprintf('%s/estimatedSignal1.wav', outputDir), sep(:,:,1), fsResample); % estimated signal 1
-audiowrite(sprintf('%s/estimatedSignal2.wav', outputDir), sep(:,:,2), fsResample); % estimated signal 2
-
-fprintf('The files are saved in "./output".\n');
+if isOutputWav
+    mix = mix ./ max(abs(mix(:)));
+    audiowrite(sprintf('%s/observedMixture.wav', outputDir), mix, fsResample); % observed signal
+    audiowrite(sprintf('%s/originalSource1.wav', outputDir), sig_resample(:,:,1), fsResample); % source signal 1
+    audiowrite(sprintf('%s/originalSource2.wav', outputDir), sig_resample(:,:,2), fsResample); % source signal 2
+    audiowrite(sprintf('%s/estimatedSignal1.wav', outputDir), sep(:,:,1), fsResample); % estimated signal 1
+    audiowrite(sprintf('%s/estimatedSignal2.wav', outputDir), sep(:,:,2), fsResample); % estimated signal 2
+end
+% fprintf('The files are saved in "./output".\n');
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% EOF %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
