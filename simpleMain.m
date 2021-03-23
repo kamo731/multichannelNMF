@@ -1,11 +1,11 @@
 clear;
 close all;
 %% setup params
-IR_cond = "JR1-trunc_2mic_1";
-wav_number = "music2";
+IR_cond = "E2A_2mic_1";
+wav_number = "music1";
 seed = 1;
-it = 3;
-nb = 20;
+it = 100;
+nb = 50;
 ns = 2;
 
 fsResample = 16000;
@@ -17,13 +17,13 @@ isWhitening    = false; % ture is not implemented
 isOutputWav    = true;
 isCalcCost     = false; % true is not inplemented
 isPrintVerbose = false; % true is not inplemented
-isSaveMat      = true;
+isSaveMat      = false;
 
 date    = datetime('now','TimeZone','Asia/Tokyo');
-exp_id  = 'test';
+exp_id  = 'exp16_calc_comp_time';
 method  = 'MNMF';
 purpose = '';
-memo    = 'at home pc';
+memo    = 'at bartok1';
 
 %% Main
 fprintf("begin MNMF\n");

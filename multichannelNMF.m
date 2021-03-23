@@ -78,6 +78,7 @@ if sum(size(T) ~= [I,K]) || sum(size(V) ~= [K,J]) || sum(size(H) ~= [I,N,M,M]) |
 end
 Xhat = local_Xhat( T, V, H, Z, I, J, M ); % initial model tensor
 
+time_arr = zeros(1, maxIt);
 % Iterative update
 fprintf('Iteration:    ');
 if ( drawConv == true )
@@ -97,9 +98,11 @@ else
     cost = 0;
     for it = 1:maxIt
         fprintf('\b\b\b\b%4d', it);
-        [ Xhat, T, V, H, Z ] = local_iterativeUpdate( X, Xhat, T, V, H, Z, I, J, K, N, M );
+        [ Xhat, T, V, H, Z, toc_time ] = local_iterativeUpdate( X, Xhat, T, V, H, Z, I, J, K, N, M );
+        time_arr(it) = toc_time;
     end
 end
+fprintf('\niteration mean time %f\n', mean(time_arr));
 fprintf(' Multichannel NMF done.\n');
 end
 
@@ -114,7 +117,8 @@ cost = sum(cost(:));
 end
 
 %%% Iterative update %%%
-function [ Xhat, T, V, H, Z ] = local_iterativeUpdate( X, Xhat, T, V, H, Z, I, J, K, N, M )
+function [ Xhat, T, V, H, Z, toc_time ] = local_iterativeUpdate( X, Xhat, T, V, H, Z, I, J, K, N, M )
+tic
 %%%%% Update T %%%%%
 invXhat = local_inverse( Xhat, I, J, M );
 invXhatXinvXhat = local_multiplicationXYX( invXhat, X, I, J, M );
@@ -146,6 +150,7 @@ invXhat = local_inverse( Xhat, I, J, M );
 invXhatXinvXhat = local_multiplicationXYX( invXhat, X, I, J, M );
 H = local_RiccatiSolver( invXhatXinvXhat, invXhat, T, V, H, Z, I, J, N, M );
 Xhat = local_Xhat( T, V, H, Z, I, J, M );
+toc_time = toc;
 end
 
 %%% Xhat %%%
@@ -284,7 +289,7 @@ end
 
 %%% Inverse %%%
 function [ invX ] = local_inverse( X, I, J, M )
-if M == 2
+if M == 20
     invX = zeros(I,J,M,M);
     detX = X(:,:,1,1).*X(:,:,2,2) - X(:,:,1,2).*X(:,:,2,1);
     invX(:,:,1,1) = X(:,:,2,2);
@@ -332,7 +337,7 @@ else % slow
     X = reshape(permute(X, [3,4,1,2]), [M,M,I*J]); % M x M x IJ
     eyeM = eye(M);
     invX = zeros(M,M,I*J);
-    parfor ij = 1:I*J
+    for ij = 1:I*J
             invX(:,:,ij) = X(:,:,ij)\eyeM;
     end
     invX = permute(reshape(invX, [M,M,I,J]), [3,4,1,2]); % I x J x M x M
